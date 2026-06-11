@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "rb_0001",
+    "name": "Arrow Classic Rock",
+    "genre": "rock",
+    "url": "http://stream.gal.io/arrow",
+    "logo": "https://www.arrow.nl/wp-content/uploads/2020/08/logo.png"
+  },
+  {
+    "id": "rb_0002",
+    "name": "Radio Bruno Pentasport Fiorentina",
+    "genre": "radio",
+    "url": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
+    "logo": "https://www.radiobruno.it/wp-content/uploads/2023/10/logo-148-90-black1.png"
+  },
+  {
+    "id": "rb_0003",
+    "name": "Radio Record - Russian Gold",
+    "genre": "russia",
+    "url": "https://radiorecord.hostingradio.ru/russiangold96.aacp",
+    "logo": "https://www.radiorecord.ru/icons/apple-touch-icon.png"
+  },
+  {
+    "id": "rb_0004",
+    "name": "Radio Tešanj 92.2MHz",
+    "genre": "radio",
+    "url": "http://radio.daj.ba:8082/stream",
+    "logo": "https://www.radiotesanj.ba/assets/site/assets/images/logo-white-mobile.png"
+  },
+  {
+    "id": "rb_0005",
+    "name": "RTL France",
+    "genre": "radio",
+    "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+    "logo": "https://www.radio.de/images/broadcasts/88/5b/5168/c300.png"
+  },
+  {
+    "id": "rb_0006",
+    "name": "Tick Tock Radio - 1950",
+    "genre": "radio",
+    "url": "https://streaming.ticktock.radio/tt/1950/icecast.audio",
+    "logo": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png"
+  },
+  {
+    "id": "rb_0007",
+    "name": "Европа Плюс",
+    "genre": "russia",
+    "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "logo": "http://liveam.tv/img/2494.jpg"
+  },
+  {
+    "id": "rb_0008",
+    "name": "ROCKANTENNE Alternative (mp3)",
+    "genre": "rock",
+    "url": "https://stream.rockantenne.de/alternative/stream/mp3",
+    "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png"
+  },
+  {
+    "id": "rb_0009",
+    "name": "Squirrel FM",
+    "genre": "radio",
+    "url": "http://s25.myradiostream.com:10092/stream",
+    "logo": "https://media.live365.com/download/b6b2cf5d-7596-471f-8aa4-fb4edd25612f.jpg"
+  },
+  {
+    "id": "rb_0010",
+    "name": "Radio Disney 94.3 - Buenos Aires, Argentina",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+    "logo": "https://cdn-profiles.tunein.com/s13659/images/logog.png"
+  },
+  {
+    "id": "rb_0011",
+    "name": "EXA FM: En Todas Partes Ponte Exa",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/exa.jpg"
+  },
+  {
+    "id": "rb_0012",
+    "name": "Stereorey: 100.9 FM - Aguascalientes, México. La Máxima Dimensión del Radio.",
+    "genre": "radio",
+    "url": "https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co/7kcyNhD/Stereorey-Aguascalientes.png"
+  },
+  {
+    "id": "rb_0013",
+    "name": "STEREOREY: La Máxima Dimensión del Radio",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s220691d.png"
+  },
+  {
+    "id": "rb_0014",
+    "name": "- 100 % - HANDSUP <3 - Non-stop 140 BPM",
+    "genre": "electronic",
+    "url": "https://club-high.rautemusik.fm/?ref=radiobrowser-100-handsup",
+    "logo": "https://i.ibb.co/X5hMzFX/100-handsup.png"
+  },
+  {
+    "id": "rb_0015",
+    "name": "- DJ & CLUB CHARTS ---> Club Classics, Festival-Hits, Remixes, Single Charts, Mashups, DJ Sets, Club Edits, Dancefloor, Underground, Nightlife, Party Anthems, Ibiza, Miami, Clubbing, Festival, Remix, Mashup, DJ, EDM,  RAVE, Dance, Urban, Latin, Beachclub, Lounge",
+    "genre": "pop",
+    "url": "https://breakz-2012-high.rautemusik.fm/?ref=rb-djclubcharts",
+    "logo": "https://i.ibb.co/P7QHpGB/DJ-CLUB-CHARTS-LOGO.png"
+  },
+  {
+    "id": "rb_0016",
+    "name": "- NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.",
+    "genre": "pop",
+    "url": "https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen",
+    "logo": "https://i.ibb.co/7J492pjD/neuersachein.jpg"
+  },
+  {
+    "id": "rb_0017",
+    "name": "# 100 NU-DISCO CENTRAL RADIO",
+    "genre": "electronic",
+    "url": "https://stream.zeno.fm/jqhhzffjynbuv",
+    "logo": "https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg"
+  },
+  {
+    "id": "rb_0018",
+    "name": "# RdMix Classic Rock 70s 80s 90s",
+    "genre": "rock",
+    "url": "https://cast1.torontocast.com:4610/stream",
+    "logo": "https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg"
+  },
+  {
+    "id": "rb_0019",
+    "name": "# RdMix DJSET 70s 80s 90s",
+    "genre": "radio",
+    "url": "https://cast1.torontocast.com:4560/stream",
+    "logo": "https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png"
+  },
+  {
+    "id": "rb_0020",
+    "name": "# RdMix Italo Disco 80s",
+    "genre": "radio",
+    "url": "https://cast1.torontocast.com:2130/stream",
+    "logo": "https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg"
+  },
+  {
+    "id": "rb_0021",
+    "name": "#100 BEST IBIZA DEEP HOUSE",
+    "genre": "electronic",
+    "url": "https://stream.zeno.fm/lwv6zqgtv1dtv",
+    "logo": "https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg"
+  },
+  {
+    "id": "rb_0022",
+    "name": "105 DIGITAL 105.3 (Aguascalientes) - 105.3 FM - XHUZ-FM - Radiogrupo - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "http://201.159.48.106:8080/",
+    "logo": "https://radiogrupo.com/wp-content/uploads/2020/06/Grupo-2882@2x-1024x687.png"
+  },
+  {
+    "id": "rb_0023",
+    "name": "2025 FM 92.3 (Morelia) - 92.3 FM - XHLY-FM - Cadena RASA - Morelia, Michoacán",
+    "genre": "radio",
+    "url": "http://s4.mexside.net:7040/;",
+    "logo": "https://thumbnail.anii.io/mx/radio-2024-fm-92-3-fm-michoacan-mexico.webp"
+  },
+  {
+    "id": "rb_0024",
+    "name": "50s 60s RETRO HITS",
+    "genre": "pop",
+    "url": "https://stream.zeno.fm/pxzwykxbluitv",
+    "logo": "https://static.wixstatic.com/media/f361b3_ea9b293c1b80488d97f24981e7c6c1d3~mv2.jpg"
+  },
+  {
+    "id": "rb_0025",
+    "name": "91 DAT 90.9 (Querétaro) - 90.9 FM - XHQRT-FM - Respuesta Radiofónica - Querétaro, Querétaro",
+    "genre": "radio",
+    "url": "https://secure.radiorama.mx:2122/",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s90652d.png"
+  },
+  {
+    "id": "rb_0026",
+    "name": "91.5 FM (Morelia) - XHMRL-FM - Grupo Marmor - Morelia, Michoacán",
+    "genre": "radio",
+    "url": "https://sp04.servidorrprivado.com/2358/stream",
+    "logo": "https://cdn-profiles.tunein.com/s54807/images/logod.png"
+  },
+  {
+    "id": "rb_0027",
+    "name": "ABC DEPORTES 660 (MTY) - 660 AM - XEFZ-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_660AMAAC.aac",
+    "logo": "https://thumbnail.anii.io/mx/radio-abc-deportes-92-1-fm-660-am-mexico.webp"
+  },
+  {
+    "id": "rb_0028",
+    "name": "ABC NOTICIAS 1310 (MTY) - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac",
+    "logo": "https://grupoabcmedia.com/wp-content/uploads/2025/01/noticias.png"
+  },
+  {
+    "id": "rb_0029",
+    "name": "ACUSTIK RADIO 1150 (CDMX) - 1150 AM - XEJP-AM - Grupo Acustik - Ciudad de México",
+    "genre": "radio",
+    "url": "https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream",
+    "logo": "https://cdn-profiles.tunein.com/s91373/images/logod.jpg"
+  },
+  {
+    "id": "rb_0030",
+    "name": "ADN 92.1 (Saltillo) - 92.1 FM - XHPEFQ-FM - Alas Para Las Palabras, A.C. - Saltillo, Coahuila",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8322/stream",
+    "logo": "https://cdn-profiles.tunein.com/s340643/images/logod.png"
+  },
+  {
+    "id": "rb_0031",
+    "name": "Alexandroupolis Dee Jay 94.8",
+    "genre": "radio",
+    "url": "https://stream.myip.gr/proxy/deejay?mp=/stream",
+    "logo": "https://resources.live24.gr/resources/images/stations/4d1c85f9-6bfd-4121-98ec-6408b3b94ff6.jpg"
+  },
+  {
+    "id": "rb_0032",
+    "name": "ALTAVOZ 89.1 (Culiacán) - 89.1 FM - XHCPCQ-FM - SPR (Sistema Público de Radiodifusión del Estado Mexicano) - Culiacán, Sinaloa",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8094/stream",
+    "logo": "https://mxplus.tv/images/radio/altavoz-culiacan.jpg"
+  },
+  {
+    "id": "rb_0033",
+    "name": "AMOR 100.1 (Mérida) - 100.1 FM - XHYU-FM - Grupo SIPSE Radio - Mérida, Yucatán",
+    "genre": "radio",
+    "url": "https://webprod.sipse.com.mx:8080/amor",
+    "logo": "https://cdn-profiles.tunein.com/s90994/images/logod.png"
+  },
+  {
+    "id": "rb_0034",
+    "name": "AMOR 101 101.3 (Guaymas) - 101.3 FM - XHFX-FM - Grupo ASVA - Guaymas, Sonora",
+    "genre": "radio",
+    "url": "https://sp3.servidorrprivado.com/4474/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-amor-101-101-3-fm-sonora-mexico.webp"
+  },
+  {
+    "id": "rb_0035",
+    "name": "AMOR ES 104.5 (Aguascalientes) - 104.5 FM - XHDC-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "https://cast.zuperdns.net/8026/stream/",
+    "logo": "https://cdn-profiles.tunein.com/s216186/images/logod.png"
+  },
+  {
+    "id": "rb_0036",
+    "name": "AMOR ES 95.1 (Ciudad Guzmán) - 95.1 FM - XHBC-FM - Grupo Radiofónico ZER - Ciudad Guzmán, Jalisco",
+    "genre": "radio",
+    "url": "https://cast.zuperdns.net/9510/stream/",
+    "logo": "https://static-media.streema.com/media/cache/a8/11/a8110ce21f9a3e47cdaee0af71319321.jpg"
+  },
+  {
+    "id": "rb_0037",
+    "name": "AMOR ES 99.3 (Zacatecas) - 99.3 FM - XHZAZ-FM - Grupo Radiofónico ZER - Zacatecas, Zacatecas",
+    "genre": "radio",
+    "url": "https://cast.zuperdns.net/8002/stream/",
+    "logo": "https://cdn-profiles.tunein.com/s212551/images/logod.png"
+  },
+  {
+    "id": "rb_0038",
+    "name": "ARANDAS FM 107.3 (Arandas) - 107.3 FM - XHARDJ-FM - Grupo Radiofónico ZER - Arandas, Jalisco",
+    "genre": "radio",
+    "url": "https://live.zuperdns.net/1073/stream",
+    "logo": "https://cdn-profiles.tunein.com/s220534/images/logod.png"
+  },
+  {
+    "id": "rb_0039",
+    "name": "ARROBA FM 101.1 (Hermosillo) - 101.1 FM - XHVSS-FM - Radiorama Sonora - Hermosillo, Sonora",
+    "genre": "radio",
+    "url": "https://stream.freepi.io/8402/live",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-101-1-fm-hermosillo-mexico.webp"
+  },
+  {
+    "id": "rb_0040",
+    "name": "ARROBA FM 101.7 (Piedras Negras) - 101.7 FM - XHCPN-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/p7xefup9d78uv",
+    "logo": "https://cdn-profiles.tunein.com/s249746/images/logod.png"
+  },
+  {
+    "id": "rb_0041",
+    "name": "ARROBA FM 88.5 (Chihuahua) - 88.5 FM - XHDI-FM - Radiorama Chihuahua - Chihuahua, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/hv5u0bg9d78uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-1360-am-chihuahua-mexico.webp"
+  },
+  {
+    "id": "rb_0042",
+    "name": "ARROBA FM 88.7 (GDL) - 88.7 FM - XHGDL-FM - Radiorama de Occidente - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/es06s1g9d78uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-88-7-fm-guadalajara-mexico.webp"
+  },
+  {
+    "id": "rb_0043",
+    "name": "ARROBA FM 89.3 (Poza Rica) - 89.3 FM - XHRRR-FM - Radiorama Poza Rica - Poza Rica, Veracruz",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/dctbwwp9d78uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-89-3-fm-poza-rica-mexico.webp"
+  },
+  {
+    "id": "rb_0044",
+    "name": "ARROBA FM 93.3 (Cuernavaca) - 93.3 FM - XHTB-FM - Radiorama Morelos - Cuernavaca, Morelos",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/yt2efgg9d78uv",
+    "logo": "https://cdn-profiles.tunein.com/s87734/images/logod.png"
+  },
+  {
+    "id": "rb_0045",
+    "name": "ARROBA FM 93.5 (Tampico) - 93.5 FM - XHPP-FM - Radiorama Tamaulipas - Tampico, Tamaulipas",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/y57qb0p9d78uv",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s87821d.png"
+  },
+  {
+    "id": "rb_0046",
+    "name": "ARROBA FM 95.3 (Reynosa) - 95.3 FM - XHRT-FM - Radiorama Tamaulipas - Reynosa, Tamaulipas",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/b04err5zfkhvv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-95-3-fm-reynosa-mexico.webp"
+  },
+  {
+    "id": "rb_0047",
+    "name": "ARROBA FM 96.1 (Puebla) - 96.1 FM - XHEZAR-FM - Radiorama Puebla - Puebla, Puebla",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/pfyc6yp9d78uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-96-1-fm-puebla-mexico.webp"
+  },
+  {
+    "id": "rb_0048",
+    "name": "ARROBA FM 98.5 (Tepic) - 98.5 FM - XHEPIC-FM - Radiorama Nayarit - Tepic, Nayarit",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/csvzw6ypu98uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-98-5-fm-tepic-mexico.webp"
+  },
+  {
+    "id": "rb_0049",
+    "name": "ARROBA FM 99.3 (León) - 99.3 FM - XHSD-FM - Radiorama Bajío - León, Guanajuato",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/883nc8g9d78uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-99-3-fm-leon-mexico.webp"
+  },
+  {
+    "id": "rb_0050",
+    "name": "ARROBA FM 99.5 (Celaya) - 99.5 FM - XHAF-FM - Radiorama Celaya - Celaya, Guanajuato",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/179rk7f9d78uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-99-5-fm-celaya-mexico.webp"
+  },
+  {
+    "id": "rb_0051",
+    "name": "ARROBA FM 99.7 (Durango) - 99.7 FM - XHOH-FM - Radiorama Durango - Durango, Durango",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/pp1aypg9d78uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-arroba-fm-99-7-fm-durango-mexico.webp"
+  },
+  {
+    "id": "rb_0052",
+    "name": "ARYA 88.5 (Mérida) - 88.5 FM - XHRRF-FM - Península Studios - Mérida, Yucatán",
+    "genre": "radio",
+    "url": "https://s1.voscast.com:10271/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-arya-88-5-fm-merida-mexico.webp"
+  },
+  {
+    "id": "rb_0053",
+    "name": "AZTLÁN RADIO 550 (Tepic) - 550 AM - XEGNAY-AM - Sistema de Radio y Televisión de Nayarit - Tepic, Nayarit",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/h1t89686h0hvv",
+    "logo": "https://cdn-profiles.tunein.com/s335644/images/logod.png"
+  },
+  {
+    "id": "rb_0054",
+    "name": "B105 105.3 Brisbane",
+    "genre": "radio",
+    "url": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8",
+    "logo": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png"
+  },
+  {
+    "id": "rb_0055",
+    "name": "BACK FM 100.9 (Piedras Negras) - 100.9 FM - XHVM-FM - Grupo Zócalo - Piedras Negras, Coahuila",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFMAAC.aac",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/XHVM_BackFM100.9_logo.png/220px-XHVM_BackFM100.9_logo.png"
+  },
+  {
+    "id": "rb_0056",
+    "name": "BBC RADIO 1 UK: The biggest new pop and all-day vibes. Londres, Inglaterra",
+    "genre": "pop",
+    "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+    "logo": "https://cdn-profiles.tunein.com/s24939/images/logod.png"
+  },
+  {
+    "id": "rb_0057",
+    "name": "BEAT 100.9 (CDMX) - 100.9 FM - XHSON-FM - NRM Comunicaciones - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s87618g.png"
+  },
+  {
+    "id": "rb_0058",
+    "name": "BESAME 89.9 (Costa Rica) - 89.9 FM - TIRB - Multimedios Radio - San José, Costa Rica",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CR_SC.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s110346g.png"
+  },
+  {
+    "id": "rb_0059",
+    "name": "BJB 570 (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROMANTICA_1340AMAAC.aac",
+    "logo": "https://static-media.streema.com/media/cache/d4/40/d4409aeae99360c5c556e5f5f82e2d4c.png"
+  },
+  {
+    "id": "rb_0060",
+    "name": "Bollenstreek Omroep",
+    "genre": "radio",
+    "url": "https://stream.bollenstreekomroep.nl/live-mp3-192-stereo",
+    "logo": "https://i0.wp.com/www.bollenstreekomroep.nl/wp-content/uploads/2024/04/cropped-bo-logo-150x150-1.jpg?fit=180%2c180&#038;ssl=1"
+  },
+  {
+    "id": "rb_0061",
+    "name": "Bremen Zwei NEU",
+    "genre": "radio",
+    "url": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+    "logo": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4"
+  },
+  {
+    "id": "rb_0062",
+    "name": "BUENISIIMA 1530 y 1590 (CDMX) - 1530 AM - XEUR-AM - Grupo Audiorama Comunicaciones - Ciudad de México",
+    "genre": "radio",
+    "url": "http://s1.audiorama.mx:6678/stream",
+    "logo": "https://i.postimg.cc/9095cqQw/Buenisiima-1530.png"
+  },
+  {
+    "id": "rb_0063",
+    "name": "BUENISIIMA 88.5 (Cuernavaca) - 88.5 FM - XHCM-FM - Grupo Audiorama Comunicaciones - Cuernavaca, Morelos",
+    "genre": "radio",
+    "url": "http://s1.audiorama.mx:6628/stream",
+    "logo": "https://cdn-profiles.tunein.com/s87735/images/logod.png"
+  },
+  {
+    "id": "rb_0064",
+    "name": "CALI 93.9 (Los Ángeles) - 93.9 FM - KLLI - Meruelo Group - Los Ángeles, California, EUA",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s26784/images/logog.jpg"
+  },
+  {
+    "id": "rb_0065",
+    "name": "CANDELA 570 (Morelia) - 570 AM - XELQ-AM - Cadena RASA - Morelia, Michoacán",
+    "genre": "radio",
+    "url": "http://s2.mexside.net:9088/stream2",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s88444g.png"
+  },
+  {
+    "id": "rb_0066",
+    "name": "CANDELA 91.1 (Uruapan) - 91.1 FM - XHFN-FM - Cadena RASA - Uruapan, Michoacán",
+    "genre": "radio",
+    "url": "http://sp3.servidorrprivado.com:3334/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s90766d.png"
+  },
+  {
+    "id": "rb_0067",
+    "name": "CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra",
+    "genre": "radio",
+    "url": "https://media-ssl.musicradio.com/CapitalAnthemsMP3",
+    "logo": "https://cdn-profiles.tunein.com/s333271/images/logod.jpg"
+  },
+  {
+    "id": "rb_0068",
+    "name": "CAPITAL UK: The UK's No.1 Hit Music Station - Londres, Inglaterra",
+    "genre": "radio",
+    "url": "http://ice-the.musicradio.com/Capital",
+    "logo": "https://cdn-profiles.tunein.com/s241396/images/logod.jpg"
+  },
+  {
+    "id": "rb_0069",
+    "name": "DIGIMIX 95 95.9 (La Paz) - 95.9 FM - XHPAL-FM - Promomedios California - La Paz, Baja California",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/pgs4nreif6yvv",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/XHPAL_Digimix95_logo.jpg"
+  },
+  {
+    "id": "rb_0070",
+    "name": "DIGITAL 102.9 (MTY) - 102.9 FM - XHMG-FM - Grupo Radio Alegría - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FMAAC.aac",
+    "logo": "https://thumbnail.anii.io/mx/radio-digital-monterrey-102-9-fm-monterrey-mexico.webp"
+  },
+  {
+    "id": "rb_0071",
+    "name": "DIGITAL 103.1 (Ciudad Acuña) - 103.1 FM - XHKD-FM - RCG Media - Ciudad Acuña, Coahuila",
+    "genre": "radio",
+    "url": "https://radio.rcg.com.mx:7005/stream",
+    "logo": "https://api.rcgmedia.mx/uploads/digitalacuna103_1_5be777044d.png"
+  },
+  {
+    "id": "rb_0072",
+    "name": "DIGITAL 89 89.5 (Tonalá) - 89.5 FM - XHNAL-FM - Radio Chiapas - Tonalá, Chiapas",
+    "genre": "radio",
+    "url": "http://streamingcwsradio10.com:9346/;",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png"
+  },
+  {
+    "id": "rb_0073",
+    "name": "DK 1250 (GDL) - 1250 AM - XEDK-AM - Radiorama de Occidente - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://sp2.servidorrprivado.com:10947/;",
+    "logo": "https://cdn-profiles.tunein.com/s87941/images/logod.png"
+  },
+  {
+    "id": "rb_0074",
+    "name": "EL HERALDO RADIO 106.5 (Istmo) - 106.5 FM - XHSCCK- FM - Heraldo Media Group - Salina Cruz, Oaxaca",
+    "genre": "radio",
+    "url": "https://s1.voscast.com:10827/stream.mp3",
+    "logo": "https://thumbnail.anii.io/mx/el-heraldo-radio-106-5-fm-istmo-mexico.webp"
+  },
+  {
+    "id": "rb_0075",
+    "name": "EL KUINO 96.1 (La Piedad) - 96.1 FM - XHPLPM-FM - Grupo Radiofónico ZER - La Piedad, Michoacán",
+    "genre": "radio",
+    "url": "https://live.zuperdns.net/1961/stream",
+    "logo": "https://cdn-profiles.tunein.com/s327478/images/logod.png"
+  },
+  {
+    "id": "rb_0076",
+    "name": "EL LOBO DE MINA 100.9 (Minatitlán) - 100.9 FM - XHMTV-FM - Grupo Radio Mina - Minatitlán, Veracruz",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8246/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-el-lobo-de-mina-100-9-fm-veracruz-mexico.webp"
+  },
+  {
+    "id": "rb_0077",
+    "name": "EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/pwezjsgefu9tv",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/746/la-poderosa-983-fm.1b5f0b73.png"
+  },
+  {
+    "id": "rb_0078",
+    "name": "EL VIEJÓN 99.5 (Torreón) - 99.5 FM - XHGZ-FM - GPS Media - Torreón, Coahuila",
+    "genre": "radio",
+    "url": "http://stream.zeno.fm/lhvgzgkoofstv",
+    "logo": "https://thumbnail.anii.io/mx/radio-el-viejon-99-5-fm-torreon-mexico.webp"
+  },
+  {
+    "id": "rb_0079",
+    "name": "ESTÉREO ROMANCE 100.7 (La Paz) - 100.7 FM - XHZPL-FM - Promomedios California - La Paz, Baja California",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/rkh7xul6uf8vv",
+    "logo": "https://radioenvivo.com.mx/uploads/img/estereo-romance-la-paz.png"
+  },
+  {
+    "id": "rb_0080",
+    "name": "ESTÉREO TIEMPO 100.3 (Monclova) - 100.3 FM - XHTF-FM - Monclova, Coahuila",
+    "genre": "radio",
+    "url": "https://stream9.mexiserver.com/8246/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9b/XHTF_100.3FM_logo_-_Edited_%281%29.png"
+  },
+  {
+    "id": "rb_0081",
+    "name": "ESTÉREO VIDA 93.1 (Ciudad del Carmen) - 93.1 FM - XHPEBS-FM - Ciudad del Carmen, Campeche",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/5y45gqtbcchvv",
+    "logo": "https://thumbnail.anii.io/mx/radio-estereo-vida-93-1-fm-ciudad-del-carmen-mexico.webp"
+  },
+  {
+    "id": "rb_0082",
+    "name": "EUFORIA 104.9 (Nuevo Casas Grandes) - 104.9 FM - XHNVG-FM - JB Multimedia - Nuevo Casas Grandes, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/usrf978ub84tv",
+    "logo": "https://er.gbmradio.com/img/nvg.png"
+  },
+  {
+    "id": "rb_0083",
+    "name": "EUFORIA 92.9 (Cuauhtémoc) - 92.9 FM - XHER-FM - JB Multimedia - Cuauhtémoc, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/wvrc9yr2974tv",
+    "logo": "https://er.gbmradio.com/img/er.png?45"
+  },
+  {
+    "id": "rb_0084",
+    "name": "EUFORIA 98.5 (Parral) - 98.5 FM - XHJS-FM - VMedia Comunicaciones - Parral, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/2ry52hly8bpvv",
+    "logo": "https://static.wixstatic.com/media/d8324b_ce385b7e3ddd460097e3443241f27ed9~mv2.png/v1/crop/x_244,y_246,w_764,h_726/fill/w_160,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20EUFORIA%20C.png"
+  },
+  {
+    "id": "rb_0085",
+    "name": "EXA FM 100.3 (Campeche) - 100.3 FM - XHMI-FM - NCS (Núcleo Comunicación del Sureste) - Campeche, Campeche",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMIAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s91430/images/logod.jpg"
+  },
+  {
+    "id": "rb_0086",
+    "name": "EXA FM 100.9 (Chihuahua) - 100.9 FM - XHLO-FM - Sistema Radio Lobo - Chihuahua, Chihuahua",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLOAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s248954/images/logod.png"
+  },
+  {
+    "id": "rb_0087",
+    "name": "EXA FM 101.1 (GDL) - 101.1 FM - XHMA-FM - MVS Radio - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMAAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s91377/images/logod.png"
+  },
+  {
+    "id": "rb_0088",
+    "name": "EXA FM 101.3 (Durango) - 101.3 FM - XHCAV-FM - Armas Radio - Durango, Durango",
+    "genre": "radio",
+    "url": "https://stream9.mexiserver.com:8114/;",
+    "logo": "https://cdn-profiles.tunein.com/s325065/images/logod.jpg"
+  },
+  {
+    "id": "rb_0089",
+    "name": "EXA FM 101.7 (Culiacán) - 101.7 FM - XHESA-FM - Grupo RSN - Culiacán, Sinaloa",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC",
+    "logo": "https://thumbnail.anii.io/mx/radio-exa-fm-101-7-fm-culiacan-mexico.webp"
+  },
+  {
+    "id": "rb_0090",
+    "name": "EXA FM 101.9 (Poza Rica) - 101.9 FM - XHRIC-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s90291/images/logod.jpg"
+  },
+  {
+    "id": "rb_0091",
+    "name": "EXA FM 104.5 (Celaya) - 104.5 FM - XHZN-FM - TVR Comunicaciones - Celaya, Guanajuato",
+    "genre": "radio",
+    "url": "http://144.217.67.108:9148/;",
+    "logo": "https://cdn-profiles.tunein.com/s92121/images/logod.jpg"
+  },
+  {
+    "id": "rb_0092",
+    "name": "EXA FM 89.3 (Morelia) - 89.3 FM - XHKW-FM - Grupo CB - Morelia, Michoacán",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHKWAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s169173/images/logod.jpg"
+  },
+  {
+    "id": "rb_0093",
+    "name": "EXA FM 89.9 (La Piedad) - 89.9 FM - XHLP-FM - Guizar Comunicación Integral - La Piedad, Michoacán",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/fc7ydby53hhvv",
+    "logo": "https://cdn-profiles.tunein.com/s151580/images/logod.png"
+  },
+  {
+    "id": "rb_0094",
+    "name": "EXA FM 89.9 (Puerto Vallarta) - 89.9 FM - XHCCBB-FM - Álica Medios - Puerto Vallarta, Jalisco",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s323832/images/logod.jpg"
+  },
+  {
+    "id": "rb_0095",
+    "name": "EXA FM 90.5 (Acámbaro) - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
+    "genre": "radio",
+    "url": "https://radios.radiohd.com.mx:7140/;",
+    "logo": "https://i.postimg.cc/fLh4vmCg/Exa-FM-Acambaro.jpg"
+  },
+  {
+    "id": "rb_0096",
+    "name": "EXA FM 97.3 (Aguascalientes) - 97.3 FM - XHAGC-FM - Radio Universal - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGCAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s88038/images/logod.jpg"
+  },
+  {
+    "id": "rb_0097",
+    "name": "EXA FM 97.3 (MTY) - 97.3 FM - XHSR-FM - MVS Radio - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s24582/images/logod.png"
+  },
+  {
+    "id": "rb_0098",
+    "name": "EXA FM 98.1 (Guasave) - 98.1 FM - XHGSE-FM - Grupo RSN - Guasave, Sinaloa",
+    "genre": "radio",
+    "url": "https://a6.asurahosting.com:8020/radio.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s90924/images/logod.jpg"
+  },
+  {
+    "id": "rb_0099",
+    "name": "EXA FM 98.3 (El Paso) - 98.3 FM - XHPX-FM - MVS Radio - Ciudad Juárez, Chihuahua",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPXAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s24575/images/logod.png"
+  },
+  {
+    "id": "rb_0100",
+    "name": "EXA FM 98.5 (Tuxtla) - 98.5 FM - XHCQ-FM - Valanci Media Group - Tuxtla Gutiérrez, CHiapas",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCQ.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s91971/images/logod.png"
+  },
+  {
+    "id": "rb_0101",
+    "name": "EXA FM 98.9 (Los Mochis) - 98.9 FM - XHMPM-FM - Grupo RSN - Los Mochis, Sinaloa",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPMAAC.AAC",
+    "logo": "https://cdn-profiles.tunein.com/s140832/images/logog.jpg"
+  },
+  {
+    "id": "rb_0102",
+    "name": "EXA FM 99.3 (Acapulco) - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s8104/images/logod.png"
+  },
+  {
+    "id": "rb_0103",
+    "name": "EXA FM 99.7 (Ciudad del Carmen) - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche",
+    "genre": "radio",
+    "url": "https://ss1.audiorama.com.mx:6674/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/787/exa-fm-913.ef80cc58.jpg"
+  },
+  {
+    "id": "rb_0104",
+    "name": "EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
+    "logo": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2"
+  },
+  {
+    "id": "rb_0105",
+    "name": "Exclusively Madonna",
+    "genre": "radio",
+    "url": "https://streaming.exclusive.radio/er/madonna/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/brand/af0845bf-87b2-4abd-a401-8e0029bb2696.png"
+  },
+  {
+    "id": "rb_0106",
+    "name": "EXTASIS DIGITAL 107.7 (Cuernavaca) - 107.7 FM - XHASM-FM - Radiorama Morelos - Cuernavaca, Morelos",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/476gbad3ekhvv",
+    "logo": "https://thumbnail.anii.io/mx/radio-extasis-digital-107-7-fm-morelos-mexico.webp"
+  },
+  {
+    "id": "rb_0107",
+    "name": "ÉXTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/n5bw2cz5dkhvv",
+    "logo": "https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg"
+  },
+  {
+    "id": "rb_0108",
+    "name": "EXTREMO FM 97.3 (Villahermosa) - 97.3 FM - XHVB-FM - Radio Núcleo - Villahermosa, Tabasco",
+    "genre": "radio",
+    "url": "https://stream.freepi.io/8330/live",
+    "logo": "https://i.postimg.cc/bwwX6z6g/Extremo.jpg"
+  },
+  {
+    "id": "rb_0109",
+    "name": "FACTOR 96.1 (San Luis Potosí) - 96.1 FM - XHOB-FM - MG Comunicación - San Luis Potosí, San Luis Potosí",
+    "genre": "radio",
+    "url": "https://factor.b-cdn.net/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s91310d.png"
+  },
+  {
+    "id": "rb_0110",
+    "name": "FANTASÍA W RADIO 89.1 - 89.1 FM - XHZTM-FM - Zitácuaro, Michoacán",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8216/stream",
+    "logo": "https://kuasark.com/files/stations-logos/fantasia-radio.png"
+  },
+  {
+    "id": "rb_0111",
+    "name": "FIESTA 94.9 (Veracruz) - 94.9 FM - XHFM-FM - Grupo AvanRadio Radiorama - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://secure.radiorama.mx:2184/",
+    "logo": "https://cdn-profiles.tunein.com/s142100/images/logod.png"
+  },
+  {
+    "id": "rb_0112",
+    "name": "FIESTA MEXICANA (Autlán) - 90.9 FM - XHANV-FM - Promosat de México - Autlán, Jalisco",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/2r1xxtznq68uv",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/108/fiesta-mexicana-909-fm.7a88d4cb.jpg"
+  },
+  {
+    "id": "rb_0113",
+    "name": "FIESTA MEXICANA 101.5 (Nuevo Laredo) - 101.5 FM - XHAS-FM - Radiorama Nuevo Laredo - Nuevo Laredo, Tamaulipas",
+    "genre": "radio",
+    "url": "https://server2.sit-mexico.com:2199/proxy/fiestamexicana?mp=/stream/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/55/XHAS_FiestaMexicana101.5-1410_logo.png"
+  },
+  {
+    "id": "rb_0114",
+    "name": "FIESTA MEXICANA 92.3 (GDL) - 92.3 FM - XHBIO-FM - Grupo Promomedios - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://strcdn.klm99.com:8130/stream/",
+    "logo": "https://cdn-profiles.tunein.com/s2996/images/logod.jpg"
+  },
+  {
+    "id": "rb_0115",
+    "name": "FIESTA MEXICANA 92.9 (Salvatierra) - 92.9 FM - XHFAC-FM - Radiorama Bajío - Salvatierra, Guanajuato",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/ys3uakk6dkhvv",
+    "logo": "https://static-media.streema.com/media/cache/56/98/569848244c1d0b6c609faa188d1d14a8.jpg"
+  },
+  {
+    "id": "rb_0116",
+    "name": "FIESTA MEXICANA 94.5 (Delicias) - 94.5 FM - XHCDS-FM - Promosat Chihuahua - Delicias, Chihuahua",
+    "genre": "radio",
+    "url": "https://strcdn.klm99.com/8132/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s91968d.png"
+  },
+  {
+    "id": "rb_0117",
+    "name": "FM CERES  98.7",
+    "genre": "radio",
+    "url": "https://streaming.escuchanosonline.com/8410/stream",
+    "logo": "https://ceresdiario.com/home/wp-content/uploads/2019/02/cropped-logo-ceresdiarioss-1-32x32.jpg"
+  },
+  {
+    "id": "rb_0118",
+    "name": "FUSIÓN 90.1 (Veracruz) - 90.1 FM - XHLL-FM - Grupo Pazos - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://sgaudio.centrocibernetico.com/fusion",
+    "logo": "https://cdn-profiles.tunein.com/s88120/images/logog.png"
+  },
+  {
+    "id": "rb_0119",
+    "name": "Gadingharjo Core",
+    "genre": "radio",
+    "url": "http://79.120.77.11:8002/blackmetal",
+    "logo": "https://i.imgur.io/CDE49Yr.jpeg?maxwidth=640"
+  },
+  {
+    "id": "rb_0120",
+    "name": "GENESIS 98.1 (MTY) - 98.1 FM - XHRL-FM - Núcleo Radio Monterrey - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8238/stream",
+    "logo": "https://cdn-profiles.tunein.com/s3106/images/logod.png"
+  },
+  {
+    "id": "rb_0121",
+    "name": "GİMSA RADYO",
+    "genre": "radio",
+    "url": "http://yayin1.canliyayin.org:9482/stream",
+    "logo": "https://www.gimsa.com.tr/images/apple-touch-icon.png"
+  },
+  {
+    "id": "rb_0122",
+    "name": "Globo 101.3 (Ciudad del Carmen) - 101.3 FM - XHMAB-FM - Organización Radio Carmen - Ciudad del Carmen, Campeche",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMABAAC.aac",
+    "logo": "https://i.ibb.co/3Ym5c8F/Globo-Ciudad-del-Carmen.jpg"
+  },
+  {
+    "id": "rb_0123",
+    "name": "Globo 101.9 (Mexicali) - 101.9 FM - XHPF-FM - MVS Radio - Mexicali, Baja California",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s12591/images/logod.png"
+  },
+  {
+    "id": "rb_0124",
+    "name": "Globo 102.1 (Córdoba) - 102.1 FM - XHAG-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz",
+    "genre": "radio",
+    "url": "http://hd.digitalradio.mx:5906/;stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/XHAG_LOGO_NOV_2024.png"
+  },
+  {
+    "id": "rb_0125",
+    "name": "Globo 102.7 (Poza Rica) - 102.7 FM - XHPR-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC.aac",
+    "logo": "https://i.postimg.cc/P5nQmFqw/Globo-102-7.png"
+  },
+  {
+    "id": "rb_0126",
+    "name": "Globo 88.1 (Monterrey) - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s306600/images/logog.png"
+  },
+  {
+    "id": "rb_0127",
+    "name": "Globo 95.9 (Maravatío) - 95.9 FM - XHCCBE-FM - Maravatío, Michoacán",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/mefi7y11grwtv",
+    "logo": "https://cdn-profiles.tunein.com/s325886/images/logod.png"
+  },
+  {
+    "id": "rb_0128",
+    "name": "GLOBO 97.9 (Mazatlán) - 97.9 FM - XHMMS-FM - Grupo RSN - Mazatlán, Sinaloa",
+    "genre": "radio",
+    "url": "https://a6.asurahosting.com:8130/radio.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s238644/images/logod.png"
+  },
+  {
+    "id": "rb_0129",
+    "name": "Globo 98.5 (Zihuatanejo) - 98.5 FM - XHZHO-FM - Pegaso Radiocomunicaciones - Zihuatanejo, Guerrero",
+    "genre": "radio",
+    "url": "https://cast1.my-control-panel.com/proxy/miguel12/stream",
+    "logo": "https://i.postimg.cc/ZqNCcbzS/Globo-98-5.jpg"
+  },
+  {
+    "id": "rb_0130",
+    "name": "Globo 98.7 (Guadalajara) - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s306609/images/logod.png"
+  },
+  {
+    "id": "rb_0131",
+    "name": "Globo 99.3 (Tijuana) - 99.3 FM - XHOCL-FM - MVS Radio - Tijuana, Baja California",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCLAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s24555/images/logod.png"
+  },
+  {
+    "id": "rb_0132",
+    "name": "Globo 99.7 (Ciudad Acuña) - 99.7 FM - XHPL-FM - RCG Media - Ciudad Acuña, Coahuila",
+    "genre": "radio",
+    "url": "http://radio.rcg.com.mx:8016/",
+    "logo": "https://cdn-profiles.tunein.com/s90720/images/logod.png"
+  },
+  {
+    "id": "rb_0133",
+    "name": "Győr+ Rádió",
+    "genre": "radio",
+    "url": "https://stream.42netmedia.com:8443/sc_gyor1",
+    "logo": "https://www.gyorplusz.hu/wp-content/themes/gyorplusz/static/images/favicons/apple-icon-144x144.png"
+  },
+  {
+    "id": "rb_0134",
+    "name": "HEART UK: Turn up the feel good! - Londres, Inglaterra",
+    "genre": "radio",
+    "url": "https://media-ssl.musicradio.com/HeartUK",
+    "logo": "https://cdn-profiles.tunein.com/s241397/images/logog.jpg"
+  },
+  {
+    "id": "rb_0135",
+    "name": "Hip Hop Workout Radio",
+    "genre": "hip-hop",
+    "url": "https://stream.revma.ihrhls.com/zc7785",
+    "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/wwYkKshlr8K1X3i0JLV-I51b8dt3bzZXTKlYyMf6F-o/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1E5SWJRdHdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvNFM2aWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM3NDkxOTAwMA.webp"
+  },
+  {
+    "id": "rb_0136",
+    "name": "HORIZONTE 107.9 (CDMX) - 107.9 FM - XHIMR-FM - IMER - Ciudad de México",
+    "genre": "radio",
+    "url": "http://s2.mexside.net/8014/stream",
+    "logo": "https://www.allradio.net/500/mLcyC6ZB_baBu10W8sRFm.webp"
+  },
+  {
+    "id": "rb_0137",
+    "name": "IMAGEN RADIO 90.5 (CDMX) - 90.5 FM - XEDA-FM - Grupo Imagen - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFMAAC.aac",
+    "logo": "https://myradioenvivo.mx/public/uploads/radio_img/imagen-radio/play_250_250.webp"
+  },
+  {
+    "id": "rb_0138",
+    "name": "IMAGEN RADIO 92.5 (Veracruz) - 92.5 FM - XHQRV-FM - Grupo Imagen - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "http://veracruz.radio.wnsol.com:8310/;stream.mp3",
+    "logo": "https://i.postimg.cc/fRZCHPLh/Imagen-Radio-Veracruz.png"
+  },
+  {
+    "id": "rb_0139",
+    "name": "Invoice  радио",
+    "genre": "radio",
+    "url": "https://listen.myrh.ru/id079040",
+    "logo": "https://radio-24.ru/img/logo/logo-1547.png"
+  },
+  {
+    "id": "rb_0140",
+    "name": "ISTMO 94.9 (Acayucan) - 94.9 FM - XHPTEA-FM - Acayucan, Veracruz",
+    "genre": "radio",
+    "url": "https://cast.tunzilla.com/http://streaming.delsurnet.com:8116/stream",
+    "logo": "https://istmo949.com/wp-content/uploads/2025/01/gran.png"
+  },
+  {
+    "id": "rb_0141",
+    "name": "JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s24508/images/logod.jpg"
+  },
+  {
+    "id": "rb_0142",
+    "name": "KISS DANCE UK: The biggest dance anthems 24/7 - Londres, Inglaterra",
+    "genre": "electronic",
+    "url": "https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
+    "logo": "https://cdn-profiles.tunein.com/s321341/images/logod.png"
+  },
+  {
+    "id": "rb_0143",
+    "name": "KISS UK: The Biggest Dance and R&B - Londres, Inglaterra",
+    "genre": "electronic",
+    "url": "https://live-kiss.sharp-stream.com/kiss100.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s6004/images/logod.jpg"
+  },
+  {
+    "id": "rb_0144",
+    "name": "LA BESTIA GRUPERA 540 (CDMX) - 540 AM - XEWF-AM - Grupo Audiorama Comunicaciones - Ciudad de México",
+    "genre": "radio",
+    "url": "https://ss1.audiorama.com.mx:6584/",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/986/la-bestia-grupera-tlalmanalco.1bbd33b1.png"
+  },
+  {
+    "id": "rb_0145",
+    "name": "LA BESTIA GRUPERA 99.7 (Chilpancingo) - 99.7 FM - XHEPI-FM - Grupo Audiorama Comunicaciones - Chilpancingo, Guerrero",
+    "genre": "radio",
+    "url": "https://sg.centrocibernetico.com/audiorama-xhepi",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/055/la-bestia-grupera-chilpancingo.1933a103.png"
+  },
+  {
+    "id": "rb_0146",
+    "name": "LA CAMPERA 92.9 (Jiménez) - 92.9 FM - XHJZ-FM - VMedia Comunicaciones - Jiménez, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/4nmspyoqrjdvv",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/321/la-campera-929.aef70a35.jpg"
+  },
+  {
+    "id": "rb_0147",
+    "name": "LA COMADRE 100.3 (Orizaba) - 100.3 FM - XHPP-FM - Valanci Media Group - Orizaba, Veracruz",
+    "genre": "radio",
+    "url": "http://hd.digitalradio.mx:6121/lacomadreorizaba",
+    "logo": "https://cdn-profiles.tunein.com/s91343/images/logod.png"
+  },
+  {
+    "id": "rb_0148",
+    "name": "LA COMADRE 101.7 (Cuautla) - 101.7 FM - XHCUT-FM - Grupo Diario de Morelos - Cuautla, Morelos",
+    "genre": "radio",
+    "url": "https://cdn4.onstream.audio/proxy/lacomadre/stream",
+    "logo": "https://cdn-profiles.tunein.com/s87737/images/logod.jpg"
+  },
+  {
+    "id": "rb_0149",
+    "name": "LA FIERA (Veracruz) - 94.1 FM - XHHV-FM - Grupo Pazos - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://sg.centrocibernetico.com/lafiera",
+    "logo": "https://cdn-profiles.tunein.com/s87815/images/logod.png"
+  },
+  {
+    "id": "rb_0150",
+    "name": "LA GRUPERA 89.3 (Puebla) - 89.3 FM - XHNP-FM - Cinco Radio - Puebla, Puebla",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/zpd5he3sz7zuv",
+    "logo": "https://www.lagrupera.mx/images/logo-close.png"
+  },
+  {
+    "id": "rb_0151",
+    "name": "LA KALIENTE 102.9 (Aguascalientes) - 102.9 FM - XHEY-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "https://cast.zuperdns.net/8024/stream/",
+    "logo": "https://cdn-profiles.tunein.com/s91721/images/logod.png"
+  },
+  {
+    "id": "rb_0152",
+    "name": "LA KALIENTE 90.7 (Hermosillo) - 90.7 FM - XHHLL-FM - Grupo Imagen - Hermosillo, Sonora",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHHLLAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s87744/images/logod.png"
+  },
+  {
+    "id": "rb_0153",
+    "name": "LA KEBUENA 92.3 (Cadereyta) - 92.3 FM - XHPCMQ-FM - Grupo Edikam - Cadereyta, Querétaro",
+    "genre": "radio",
+    "url": "https://laradiossl.online:10567/;",
+    "logo": "https://i.postimg.cc/J4ytxwrG/la-kebuena-cadereyta.jpg"
+  },
+  {
+    "id": "rb_0154",
+    "name": "LA KEBUENA 93.9 (Acayucan) - 93.9 FM - XHEVZ-FM - Acayucan, Veracruz",
+    "genre": "radio",
+    "url": "https://secure.radiorama.mx:2170/",
+    "logo": "https://thumbnail.anii.io/mx/radio-la-ke-buena-93-9-fm-mexico.webp"
+  },
+  {
+    "id": "rb_0155",
+    "name": "LA KEBUENA 95.5 (Colima) - 95.5 FM - XHCMM-FM - 95.5 FM - Luna Medios - Coalcomán, Michoacán",
+    "genre": "radio",
+    "url": "https://radios.lunamedios.mx:8308/;",
+    "logo": "https://cdn-profiles.tunein.com/s299113/images/logod.png"
+  },
+  {
+    "id": "rb_0156",
+    "name": "LA KEBUENA 98.5 FM (El Fuerte) - 98.5 FM - XHCCCD-FM - Ap Grupo Radio - El Fuerte, Sinaloa",
+    "genre": "radio",
+    "url": "https://stream.soyradioinc.com:8274/stream",
+    "logo": "https://nexostreaming.com/apgruporadio/wp-content/uploads/2024/11/Logotipo-La-KeBuena-El-Fuerte-Sinaloa-98.5-FM_Mesa-de-trabajo-1-copia-qhuu1v2zoi41zbu3dbcu40ks7kj4cmrqojwk9vla4w.png"
+  },
+  {
+    "id": "rb_0157",
+    "name": "LA LUPE 103.5 (Tuxtla Gutiérrez) - 103.5 FM - XHTUG-FM - Multimedios Radio - Tuxtla Gutiérrez, Chiapas",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTUGFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s340657/images/logod.jpg"
+  },
+  {
+    "id": "rb_0158",
+    "name": "LA MÁS PICUDA 104.7 (Parral) - 104.7 FM - XHEHB-FM - Radiorama Parral - Hidalgo del Parral, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/p45k5uz5dkhvv",
+    "logo": "https://static-media.streema.com/media/cache/de/53/de5362728a4c73f5b6fbaf2c807971e5.png"
+  },
+  {
+    "id": "rb_0159",
+    "name": "LA MEGA 106.1 (Agua Dulce) - 106.1 FM - XHSCID-FM - Comunicación Hidromila - Agua Dulce, Veracruz",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/mxi4pryyw4pvv",
+    "logo": "https://i.postimg.cc/Dw3CJh9W/La-Mega-106-1.jpg"
+  },
+  {
+    "id": "rb_0160",
+    "name": "LA MEJOR 540 (Los Mochis) - 540 AM - XEHS-AM - Grupo RSN - Los Mochis, Sinaloa",
+    "genre": "radio",
+    "url": "https://a6.asurahosting.com:7920/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/XHHS_LaMejor90.9-540_logo.png"
+  },
+  {
+    "id": "rb_0161",
+    "name": "LA MEJOR 89.7 (Acámbaro) - 89.7 FM - XHAK-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
+    "genre": "radio",
+    "url": "https://radios.radiohd.com.mx:7141/;",
+    "logo": "https://cdn-profiles.tunein.com/s92054/images/logod.png"
+  },
+  {
+    "id": "rb_0162",
+    "name": "LA MERA MERA 89.5 (Matamoros) - 89.5 FM - XHRV-FM - Matamoros, Tamaulipas",
+    "genre": "radio",
+    "url": "https://cast5.my-control-panel.com/proxy/manuel12/stream",
+    "logo": "https://lameramera895fm.com/wp-content/uploads/2024/11/LOGOMERAMERA-300x300.png"
+  },
+  {
+    "id": "rb_0163",
+    "name": "LA MERA MERA 980 (Los Ángeles) - 980 AM - KFWB - Lotus Communications - Los Ángeles, California, EUA",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s32744/images/logog.jpg"
+  },
+  {
+    "id": "rb_0164",
+    "name": "LA MEXICANA 570 (Oaxaca) - 570 AM - XHEOA-FM - Grupo AS Comunicación - Oaxaca, Oaxaca",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/0foxzyrupdutv",
+    "logo": "https://cdn-profiles.tunein.com/s90511/images/logod.png"
+  },
+  {
+    "id": "rb_0165",
+    "name": "LA PATRONA 570 (Escuinapa) - 570 AM - XETD-AM - Alica Medios - Escuinapa, Sinaloa",
+    "genre": "radio",
+    "url": "http://www.radiohosting.online/stream/?puerto=9884",
+    "logo": "https://thumbnail.anii.io/mx/radio-la-patrona-92-5-fm-escuinapa-mexico.webp"
+  },
+  {
+    "id": "rb_0166",
+    "name": "LA PATRONA 92.7 (Guachochi) - 92.7 FM - XHPCHO-FM - Grupo Bustillos Radio - Guachochi, Chihuahua",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8132/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/615/la-patrona-de-guachochi.50fa9710.jpg"
+  },
+  {
+    "id": "rb_0167",
+    "name": "LA PATRONA 94.5 (Santiago) - 94.5 FM - XHSI-FM - Alica Medios - Santiago Ixcuintla, Nayarit",
+    "genre": "radio",
+    "url": "https://tv.radiohosting.online:8140/stream",
+    "logo": "https://cdn-profiles.tunein.com/s331224/images/logod.png"
+  },
+  {
+    "id": "rb_0168",
+    "name": "LA PODEROSA 106.9 (Veracruz) - 106.9 FM -XHQT-FM - Grupo AvanRadio Radiorama - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8314/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s87831g.png"
+  },
+  {
+    "id": "rb_0169",
+    "name": "LA PODEROSA 93.1 (Tuxpan) - 93.1 FM - XHCRA-FM - Radiorama Tuxpan - Tuxpan, Veracruz",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/qwmf9kf0fkhvv",
+    "logo": "https://thumbnail.anii.io/mx/radio-la-poderosa-93-1-fm-veracruz-mexico.webp"
+  },
+  {
+    "id": "rb_0170",
+    "name": "LA Q 940 (CDMX) - 940 AM - XEQ-AM - Radiópolis - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAMEAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s24529/images/logod.png"
+  },
+  {
+    "id": "rb_0171",
+    "name": "LA RANCHERA DE PAQUIMÉ 540 (Nuevo Casas Grandes) - 540 AM - XETX-AM - JB Multimedia - Nuevo Casas Grandes, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/8db4bm3xa84tv",
+    "logo": "https://i.postimg.cc/W1NW7S0y/la-ranchera-de-paquime.png"
+  },
+  {
+    "id": "rb_0172",
+    "name": "LA RANCHERITA 105.1 (León) - 105.1 FM - XHLEO-FM - Promomedios - León, Guanajuato",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/wqmax4y0ra0uv",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/XHLEO_LaRancherita105.1_logo.png"
+  },
+  {
+    "id": "rb_0173",
+    "name": "LA RANCHERITA 89.1 (Ensenada) - 89.1 FM - XHEPF-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California",
+    "genre": "radio",
+    "url": "https://edge.mixlr.com/channel/caifk",
+    "logo": "https://cdn-profiles.tunein.com/s181492/images/logod.png"
+  },
+  {
+    "id": "rb_0174",
+    "name": "LA RANCHERITA 93.1 (Zirándaro) - 93.1 FM - XHCCAZ-FM - Zirándaro de los Chávez, Guerrero",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/jdfjj7gtrw3tv/jdfjj7gtrw3tv",
+    "logo": "https://i.postimg.cc/zX1HYtNR/La-Rancherita-Zirandaro.jpg"
+  },
+  {
+    "id": "rb_0175",
+    "name": "LA RANCHERITA DEL AIRE 580 (Piedras Negras) - 580 AM - XELRDA-AM - Piedras Negras, Coahuila",
+    "genre": "radio",
+    "url": "https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3",
+    "logo": "https://www.medios.gt/galeriausuarios/mexico/imagenesmessage/imagem030301150614791.jpg"
+  },
+  {
+    "id": "rb_0176",
+    "name": "LA RAZA 105.1 (Hermosillo) - 105.1 FM - XHMMO-FM - Grupo RADIOSA - Hermosillo, Sonora",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/wy9eauldjwavv",
+    "logo": "https://cdn-profiles.tunein.com/s88334/images/logod.png"
+  },
+  {
+    "id": "rb_0177",
+    "name": "LA TAPATIA 103.5 (GDL) - 103.5 FM - XHRX-FM - Radiorama de Occidente - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/urxmpmn1qa0uv",
+    "logo": "https://thumbnail.anii.io/mx/radio-la-tapatia-103-5-fm-mexico.webp"
+  },
+  {
+    "id": "rb_0178",
+    "name": "La Top 102.9 FM - San Pedro Sula, Honduras",
+    "genre": "radio",
+    "url": "https://us9.maindigitalstream.com/ssl/latop102",
+    "logo": "https://d32139y4w3ahij.cloudfront.net/wp-content/uploads/2021/02/LA-TOP-102.9.png"
+  },
+  {
+    "id": "rb_0179",
+    "name": "LA TREMENDA 560 (Santiago Papasquiaro) - 560 AM - XESRD-AM - Grupo Garza Limón - Santiago Papasquiaro, Durango",
+    "genre": "radio",
+    "url": "https://radio.latremenda.com.mx/Santiago",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s91471g.png"
+  },
+  {
+    "id": "rb_0180",
+    "name": "LA UK 570 (Caborca) - 570 AM - XEUK-AM - Grupo Radio Palacios - Caborca, Sonora",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/lauk953/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s87784g.png"
+  },
+  {
+    "id": "rb_0181",
+    "name": "LA VOZ 830 (CDMX) - 830 AM - XEITE-AM - Capital Media - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac",
+    "logo": "https://i.postimg.cc/fypX8pch/La-Voz-830.jpg"
+  },
+  {
+    "id": "rb_0182",
+    "name": "LA VOZ 94.7 (Laguna) - 94.7 FM - XHTJ-FM - GPS Media / La Voz Radio - Gómez Palacio, Durango/Torreón, Coahuila",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/3mlkhk5d7h0uv",
+    "logo": "https://cdn-profiles.tunein.com/s339780/images/logod.png"
+  },
+  {
+    "id": "rb_0183",
+    "name": "LA Z 105.5 (Atotonilco) - 105.5 FM - XHHE-FM - XHHE Radio / Grupo Radio Centro - Atotonilco, Jalisco",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/0q28d4beczctv",
+    "logo": "https://rcradio105.com/wp-content/uploads/2024/04/LA-Z-MARCA-1-scaled.jpg"
+  },
+  {
+    "id": "rb_0184",
+    "name": "LIKE FM 98.3 (Cuauhtémoc) - 98.3 FM - XHDT-FM - GRD Multimedia - Cuauhtémoc, Chihuahua",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com:7085/;",
+    "logo": "https://cdn-profiles.tunein.com/s87661/images/logod.png"
+  },
+  {
+    "id": "rb_0185",
+    "name": "LOS40 100.5 (Delicias) - 100.5 FM - XHBZ-FM - Sigma Radio - Delicias, Chihuahua",
+    "genre": "radio",
+    "url": "https://ssl.sigmaradio.stream:9004/stream",
+    "logo": "https://cdn-profiles.tunein.com/s148725/images/logod.png"
+  },
+  {
+    "id": "rb_0186",
+    "name": "LOS40 102.7 (GDL) - 102.7 FM - XEHL-FM - Radiópolis - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDLAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s2753/images/logod.jpg"
+  },
+  {
+    "id": "rb_0187",
+    "name": "LOS40 88.5 (Monterrey) - 88.5 FM - XHWAG-FM - Radiópolis - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MTYAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s298290/images/logod.png"
+  },
+  {
+    "id": "rb_0188",
+    "name": "LOS40 95.7 (Aguascalientes) - 95.7 FM - XHAGA-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "https://cast.zuperdns.net/8030/stream/",
+    "logo": "https://cdn-profiles.tunein.com/s141437/images/logod.png"
+  },
+  {
+    "id": "rb_0189",
+    "name": "LOS40 USA",
+    "genre": "radio",
+    "url": "https://streams.streamkast.co/streamkast/los40/icecast.audio",
+    "logo": "https://los40.us/wp-content/uploads/2024/04/player-logo.jpg"
+  },
+  {
+    "id": "rb_0190",
+    "name": "LOVE FM 103.7 (Veracruz) - 103.7 FM - XHCS-FM - Grupo RADIO SA - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/008/1037-love-fm.c0034d62.jpg"
+  },
+  {
+    "id": "rb_0191",
+    "name": "Love FM 103.7 (Veracruz) - 103.7 FM - XHCS-FM - Grupo RADIO SA - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a01759c5aa2b85d66b5933/playlist.m3u8",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/008/1037-love-fm.c0034d62.jpg"
+  },
+  {
+    "id": "rb_0192",
+    "name": "LUPE 560 (Manzanillo) - 560 AM - XEMZA-AM - Grupo Radiofónico ZER - Manzanillo, Colima",
+    "genre": "radio",
+    "url": "https://live.zuperdns.net/1895/stream/",
+    "logo": "https://grupozer.mx/images/portada/logos/301.png"
+  },
+  {
+    "id": "rb_0193",
+    "name": "LUPE 93.3 (Zacatecas) - 93.3 FM - XHEXZ-FM - Grupo Radiofónico ZER - Guadalupe, Zacatecas",
+    "genre": "radio",
+    "url": "https://cast.zuperdns.net/8010/stream/",
+    "logo": "https://grupozer.mx/images/portada/logos/803.png"
+  },
+  {
+    "id": "rb_0194",
+    "name": "M80 Rádio – 60s",
+    "genre": "radio",
+    "url": "https://stream-icy.bauermedia.pt/m8060.aac",
+    "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/fe90a6d0b5158acae63737fe4b9b204f.jpg"
+  },
+  {
+    "id": "rb_0195",
+    "name": "M80 Rádio – 80s",
+    "genre": "radio",
+    "url": "https://stream-icy.bauermedia.pt/m8080.aac",
+    "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/cc9443f16e2af31ba205ac82214760c9.jpg"
+  },
+  {
+    "id": "rb_0196",
+    "name": "MAGIA 101 101.7 (Aguascalientes) - 101.7 FM - XHUNO-FM - Radiogrupo - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "http://201.159.48.107:8080/",
+    "logo": "https://radiogrupo.com/wp-content/uploads/2020/06/Grupo-2879@2x-1024x713.png"
+  },
+  {
+    "id": "rb_0197",
+    "name": "MAR FM 99.7 (Veracruz) - 99.7 FM - XHPB-FM - Grupo FM Multimedios - Boca del Río, Veracruz",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/eyh5yzn3f78uv",
+    "logo": "https://cdn-profiles.tunein.com/s3139/images/logod.png"
+  },
+  {
+    "id": "rb_0198",
+    "name": "MÁS LATINA 96.5 (Veracruz) - 96.5 FM - XHRN-FM - RN Radio Networks - Veracruz, Veracruz",
+    "genre": "latin",
+    "url": "https://cast3.my-control-panel.com/proxy/maslatina/stream",
+    "logo": "https://maslatina.com.mx/wp-content/uploads/2020/12/logo_MasLatina.png"
+  },
+  {
+    "id": "rb_0199",
+    "name": "MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd96/playlist.m3u8",
+    "logo": "https://veracruz.maximafm.com.mx/assets/images/logos/maximafm-veracruz.png"
+  },
+  {
+    "id": "rb_0200",
+    "name": "MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz.",
+    "genre": "radio",
+    "url": "https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8",
+    "logo": "https://veracruz.maximafm.com.mx/assets/images/logos/maximafm-veracruz.png"
+  },
+  {
+    "id": "rb_0201",
+    "name": "Mosh Head Black Metal ID",
+    "genre": "rock",
+    "url": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
+    "logo": "https://i.imgur.com/ldM8wDn.jpeg"
+  },
+  {
+    "id": "rb_0202",
+    "name": "Most 105.8 FM Jakarta",
+    "genre": "radio",
+    "url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
+    "logo": "https://images.noiceid.cc/catalog/content-1614529804201.jpg"
+  },
+  {
+    "id": "rb_0203",
+    "name": "MVS 102.5 (CDMX) - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac",
+    "logo": "https://static.wixstatic.com/media/336e54_bf4f165f0e784aa2a55105e99aed93da~mv2.png/v1/fill/w_732,h_732,al_c,q_90,enc_avif,quality_auto/336e54_bf4f165f0e784aa2a55105e99aed93da~mv2.png"
+  },
+  {
+    "id": "rb_0204",
+    "name": "NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s26289/images/logod.png"
+  },
+  {
+    "id": "rb_0205",
+    "name": "NRGY 88.1 (Culiacán) - 88.1 FM - XHCSEB-FM - GPM (Grupo Promomedios) - Culiacán, Sinaloa",
+    "genre": "radio",
+    "url": "https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio",
+    "logo": "https://gpmtuportal.com/wp-content/uploads/2023/12/NRGY-FINAL-1-1-1.png"
+  },
+  {
+    "id": "rb_0206",
+    "name": "OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8016/stream",
+    "logo": "https://www.imer.mx/opus/wp-content/uploads/sites/13/cropped-logoparasite2-180x180.png"
+  },
+  {
+    "id": "rb_0207",
+    "name": "OREJA FM 102.5 (Obregón) - 102.5 FM - XHIQ-FM - Grupo AS Comunicación - Obregón, Sonora",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/3agiabarewutv",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/530/oreja-fm-1025-ciudad-obregon.94b4df15.png"
+  },
+  {
+    "id": "rb_0208",
+    "name": "OYE 89.7 (CDMX) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de México",
+    "genre": "radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s47689/images/logod.jpg"
+  },
+  {
+    "id": "rb_0209",
+    "name": "Positively Stress Relief -om",
+    "genre": "radio",
+    "url": "https://streaming.positivity.radio/pr/stressrelief/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/127496a8-d79b-4b7b-9981-a7112fb3922c.png"
+  },
+  {
+    "id": "rb_0210",
+    "name": "POWER 98 98.3 (Mexicali) - 98.3 FM - XHMIX-FM - California Medios - Mexicali, Baja California",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8220/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-power-98-98-3-fm-mexicali-mexico.webp"
+  },
+  {
+    "id": "rb_0211",
+    "name": "PR PRZEBOJE PRL",
+    "genre": "radio",
+    "url": "http://mp3.polskieradio.pl:8066/;",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250603_134757118.jpg?alt=media&token=8cb43701-9fb1-486a-93cb-1a47406f30e4"
+  },
+  {
+    "id": "rb_0212",
+    "name": "PREMIER 91.7 (MTY) - 91.7 FM - XHXL-FM - Grupo Radio Alegría - Monterrey, Nuevo León",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_917.mp3",
+    "logo": "https://thumbnail.anii.io/mx/radio-premier-91-7-fm-monterrey-mexico.webp"
+  },
+  {
+    "id": "rb_0213",
+    "name": "R.VALE VERDE FM 96,66",
+    "genre": "radio",
+    "url": "https://ice.fabricahost.com.br/valeverdefm",
+    "logo": "https://valeverdefm.com.br/img/b1477f6674fb80a945ea178ecb46e51c.png"
+  },
+  {
+    "id": "rb_0214",
+    "name": "RADIO 710 (CDMX) - 710 AM - XEMP-AM - IMER - Ciudad de México",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8028/stream",
+    "logo": "https://www.imer.mx/radio710/wp-content/uploads/sites/17/favicon_radio710_2022_32.png"
+  },
+  {
+    "id": "rb_0215",
+    "name": "RADIO ACTIVA 89.7 (Hermosillo) - 89.7 FM - XHEDL-FM - Grupo RADIO SA - Hermosillo, Sonora",
+    "genre": "radio",
+    "url": "https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8",
+    "logo": "https://activafm.com.mx/assets/images/logos/activa-hermosillo.png"
+  },
+  {
+    "id": "rb_0216",
+    "name": "RADIO ALTIPLANO 96.5 (Tlaxcala) - 96.5 FM - XHTLAX-FM - CORACYT - Tlaxcala, Tlaxcala",
+    "genre": "radio",
+    "url": "https://radio11.mega00.com/8018/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-altiplano-96-5-fm-tlaxcala-mexico.webp"
+  },
+  {
+    "id": "rb_0217",
+    "name": "RADIO BI 88.7 (Aguascalientes) - 88.7 FM - XHBI-FM - Radiogrupo - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "http://201.159.48.107:2860/",
+    "logo": "https://cdn-profiles.tunein.com/s149818/images/logod.jpg"
+  },
+  {
+    "id": "rb_0218",
+    "name": "RADIO CAÑÓN 580 (GDL) - 580 AM - XEAV-AM - Grupo Radio Cañón - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8266/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/588/radio-canon-580-am.50c211e1.png"
+  },
+  {
+    "id": "rb_0219",
+    "name": "RADIO CAÑÓN 760 (CDMX) - 760 AM - XEABC-AM - Grupo Radio Cañón - Ciudad de México",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8292/stream",
+    "logo": "https://cdn-profiles.tunein.com/s25752/images/logod.png"
+  },
+  {
+    "id": "rb_0220",
+    "name": "RADIO CENTRO 1030 (CDMX) - 1030 AM - XEQR-AM - Grupo Radio Centro - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac",
+    "logo": "https://radiocentro.com/_next/image?url=https%3A%2F%2Feditorial.radiocentro.com%2Fwp-content%2Fuploads%2F2022%2F06%2Flogo_RC1030_400.png&w=640&q=75"
+  },
+  {
+    "id": "rb_0221",
+    "name": "RADIO CIUDADANA 1350 (CDMX) - 1350 AM - XEQK-AM - IMER - Ciudad de México",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8026/stream",
+    "logo": "https://i.postimg.cc/VNdHpTnd/Radio-Ciudadana-1350.png"
+  },
+  {
+    "id": "rb_0222",
+    "name": "RADIO COSTA 103.9 (Autlán) - 103.9 FM / 780 AM - XHLD-FM / XELD-AM - Autlán, Jalisco",
+    "genre": "radio",
+    "url": "https://streaming.shoutcast.com/xhld-radio-costa",
+    "logo": "https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp"
+  },
+  {
+    "id": "rb_0223",
+    "name": "RADIO DISNEY 102.1 (Toluca) - 102.1 FM - XHTOM-FM - Grupo Siete - Toluca, Estado de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTOMFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s87717/images/logod.png"
+  },
+  {
+    "id": "rb_0224",
+    "name": "RADIO DISNEY 92.1 (CDMX) - 92.1 FM - XHFO-FM - Grupo Siete - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s88449/images/logod.png?t=638297749600000000"
+  },
+  {
+    "id": "rb_0225",
+    "name": "RADIO EDUCACIÓN SEÑAL 1060 (CDMX) - 1060 AM - XECPAE-AM - Radio Educación - Ciudad de México",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8172/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/532/radio-educacion-1060-am.da6abd72.jpg"
+  },
+  {
+    "id": "rb_0226",
+    "name": "RADIO EDUCACIÓN SEÑAL 96.5 FM (CDMX) - 96.5 FM - XHEP-FM - Radio Educación - Ciudad de México",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8174/stream",
+    "logo": "https://cdn.onlineradiobox.com/img/l/7/115837.v5.png"
+  },
+  {
+    "id": "rb_0227",
+    "name": "Radio Euro Disco",
+    "genre": "radio",
+    "url": "https://broadcast.miami/proxy/eurodisco?mp=/stream/;",
+    "logo": "https://top-radio.ru/assets/image/radio/180/radio-euro-disco.png"
+  },
+  {
+    "id": "rb_0228",
+    "name": "Radio Gameplay",
+    "genre": "radio",
+    "url": "https://c22.radioboss.fm:8144/GamePlay",
+    "logo": "https://c22.radioboss.fm/w/artwork/144.jpg"
+  },
+  {
+    "id": "rb_0229",
+    "name": "RADIO IMER 94.9 (Comitán) - 94.9 FM - XHEMIT-FM - IMER - Comitán, Chiapas",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8050/stream",
+    "logo": "https://www.imer.mx/wp-content/uploads/sites/36/avatar_radio_imer_2024.png"
+  },
+  {
+    "id": "rb_0230",
+    "name": "Radio La Guadalupana (CDMX) - 620 AM - XENK-AM - ESNE Radio - Ciudad de México",
+    "genre": "radio",
+    "url": "https://s3.voscast.com:11489/xstream",
+    "logo": "https://i.ibb.co/MNXG618/Radio-La-Guadalupana-CDMX.jpg"
+  },
+  {
+    "id": "rb_0231",
+    "name": "RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://s2.yesstreaming.net:9088/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-metropoli-1150-am-mexico.webp"
+  },
+  {
+    "id": "rb_0232",
+    "name": "RADIO MEXICANA Nuestras Noticias 1300 (Ciudad Juárez) - 1300 AM - XEP-AM - Radiorama - Ciudad Juárez, Chihuahua",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/9b3xff05dkhvv",
+    "logo": "https://thumbnail.anii.io/mx/radio-mexicana-nuestras-noticias-1300-am-chihuahua-mexico.webp"
+  },
+  {
+    "id": "rb_0233",
+    "name": "Radio Mitre",
+    "genre": "radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC",
+    "logo": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png"
+  },
+  {
+    "id": "rb_0234",
+    "name": "Radio Navahang",
+    "genre": "radio",
+    "url": "https://navairan.com/;stream.nsv",
+    "logo": "https://www.navahang.com/apple-touch-icon.png"
+  },
+  {
+    "id": "rb_0235",
+    "name": "RADIO RED 1110 (CDMX) - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s16515/images/logod.jpg"
+  },
+  {
+    "id": "rb_0236",
+    "name": "RADIO TEOCELO 1490 (Teocelo) - 1490 AM - XEYTM-AM - Teocelo, Veracruz",
+    "genre": "radio",
+    "url": "https://cast6.asurahosting.com/proxy/zeferino/stream",
+    "logo": "https://radioteocelo.mx/wp-content/uploads/2021/01/logo-min.png"
+  },
+  {
+    "id": "rb_0237",
+    "name": "RADIO UNAM 860 (CDMX) - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México",
+    "genre": "radio",
+    "url": "https://tv.radiohosting.online:9486/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-unam-860-am-ciudad-de-mexico-mexico.webp"
+  },
+  {
+    "id": "rb_0238",
+    "name": "RADIO UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
+    "genre": "radio",
+    "url": "https://tv.radiohosting.online:9484/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s24539d.png"
+  },
+  {
+    "id": "rb_0239",
+    "name": "RADIO UNIVERSIDAD 89.5 (Querétaro) - 89.5 FM - XHUAQ-FM - Universidad Autónoma de Querétaro - Querétaro, Querétaro",
+    "genre": "radio",
+    "url": "https://estaciones.uaq.mx:8000/radio.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s47266/images/logog.png"
+  },
+  {
+    "id": "rb_0240",
+    "name": "RADIO UNIVERSIDAD DE GDL 102.3 (Autlán) - 102.3 FM - XHANU-FM - Universidad de Guadalajara - Autlán, Jalisco",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/h6x4srz92hhvv",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/483/radio-udeg-autlan.b7c05912.png"
+  },
+  {
+    "id": "rb_0241",
+    "name": "RADIO UNIVERSIDAD DE GDL 105.5 (Ameca) - 105.5 FM - XHUGA-FM - Universidad de Guadalajara - Ameca, Jalisco",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/cu717gz92hhvv",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/684/radio-udeg-ameca.79dc5ead.png"
+  },
+  {
+    "id": "rb_0242",
+    "name": "RADIO WIELKOPOLSKA",
+    "genre": "reggae",
+    "url": "http://217.182.76.63:8000/webstream",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_173306308.jpg?alt=media&token=a87d4cff-689b-461f-b2ce-33169f60754e"
+  },
+  {
+    "id": "rb_0243",
+    "name": "RADIO XICOTEPEC 570 (Xicotepec) - 570 AM - XEVJP-AM - Xicotepec, Puebla",
+    "genre": "radio",
+    "url": "https://sh1.radioonlinehd.com:8044/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s90521g.png"
+  },
+  {
+    "id": "rb_0244",
+    "name": "RADIO ZACATECAS 97.9 (Zacatecas) - 97.9 FM - XHZH-FM - SIZART (Sistema Zacatecano de Radio y Televisión) - Zacatecas, Zacatecas",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8102/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-zacatecas-97-9-fm-zacatecas-mexico.webp"
+  },
+  {
+    "id": "rb_0245",
+    "name": "RADIO ZION 540 (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, Baja California",
+    "genre": "radio",
+    "url": "http://zionmultimedia.live/radio/8010/radio.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s24699/images/logod.png"
+  },
+  {
+    "id": "rb_0246",
+    "name": "Radyo Katribu Philippines Teleradyo",
+    "genre": "radio",
+    "url": "https://io.radyoph.com:8020/katribu",
+    "logo": "https://radyoph.com/wp-content/uploads/2025/02/radyokatribu-150x150.png"
+  },
+  {
+    "id": "rb_0247",
+    "name": "REACTOR 105.7 (CDMX) - 105.7 FM - XHOF-FM - IMER - Ciudad de México",
+    "genre": "radio",
+    "url": "http://s2.mexside.net/8002/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/339/reactor-1057.fa4cdca5.png"
+  },
+  {
+    "id": "rb_0248",
+    "name": "Relax FM Chillout",
+    "genre": "chill",
+    "url": "https://pub0201.101.ru/stream/trust/mp3/128/24?",
+    "logo": "https://www.radiobells.com/stations/relaxfmchillout.webp"
+  },
+  {
+    "id": "rb_0249",
+    "name": "Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://ss1.audiorama.com.mx:6574/vibefm",
+    "logo": "https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg"
+  },
+  {
+    "id": "rb_0250",
+    "name": "RETRO FM 93.9 (Ciudad del Carmen) - 93.9 FM - XHPMEN-FM - Grupo Audiorama Comunicaciones - Ciudad del Carmen, Campeche",
+    "genre": "radio",
+    "url": "https://ss1.audiorama.com.mx:6572/",
+    "logo": "https://thumbnail.anii.io/mx/radio-retro-93-9-fm-mexico.webp"
+  },
+  {
+    "id": "rb_0251",
+    "name": "ROMÁNTICA 1380 (CDMX) - 1380 AM - XECO-AM - Radiorama Valle de México - Ciudad de México",
+    "genre": "radio",
+    "url": "https://cdn1.onstream.audio/proxy/xeco/stream",
+    "logo": "https://kuasark.com/files/stations-logos/romantica-ciudad-de-mexico-1380-am-xeco-am-radiorama-ciudad-de-mexico.png"
+  },
+  {
+    "id": "rb_0252",
+    "name": "Sky News Australia Radio",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
+    "logo": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png"
+  },
+  {
+    "id": "rb_0253",
+    "name": "SmoothJazz.com 64k aac+",
+    "genre": "jazz",
+    "url": "https://smoothjazz.cdnstream1.com/2585_64.aac",
+    "logo": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png"
+  },
+  {
+    "id": "rb_0254",
+    "name": "SOL STEREO 97.7 (Chetumal) - 97.7 FM - XHWO-FM - Grupo Sol Comunicaciones - Chetumal, Quintana Roo",
+    "genre": "radio",
+    "url": "https://securestream.mxradio.xyz/chetumal/",
+    "logo": "https://thumbnail.anii.io/mx/radio-sol-stereo-97-7-fm-chetumal-mexico.webp"
+  },
+  {
+    "id": "rb_0255",
+    "name": "STEREO 100 99.9 (Morelia) - 99.9 FM - XHSCHP-FM - FH Comunicadores de Michoacán - Morelia/Tarímbaro, Michoacán",
+    "genre": "radio",
+    "url": "http://154.38.167.185:8040/;",
+    "logo": "https://cdn-profiles.tunein.com/s329513/images/logod.jpg"
+  },
+  {
+    "id": "rb_0256",
+    "name": "STEREO CIEN 1000 (CDMX) - 1000 AM - XEOY-AM - NRM Comunicaciones - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/485/stereo-cien-1001-fm.640ab4a2.jpg"
+  },
+  {
+    "id": "rb_0257",
+    "name": "SUPER FM 99.5 (Monclova) - 99.5 FM - XHMS-FM - Radio Medios de Monclova - Monclova, Coahuila",
+    "genre": "radio",
+    "url": "https://a9.asurahosting.com:7440/radio.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s91401d.png"
+  },
+  {
+    "id": "rb_0258",
+    "name": "super nova trzebnica",
+    "genre": "radio",
+    "url": "http://ic1.smcdn.pl/1510-1.mp3",
+    "logo": "http://img.sedoparking.com/templates/logos/sedo_logo.png"
+  },
+  {
+    "id": "rb_0259",
+    "name": "Techno Lovers FM Vocal Trance",
+    "genre": "electronic",
+    "url": "https://stream.technolovers.fm/vocal-trance",
+    "logo": "https://i.postimg.cc/j5JqRGN7/technoloversvocaltrance.jpg"
+  },
+  {
+    "id": "rb_0260",
+    "name": "TITÁN 106.3 (Villahermosa) - 106.3 FM - XHRVI-FM - PUBLILUM (PubliLu Medios) - Villahermosa, Tabasco",
+    "genre": "radio",
+    "url": "http://master.shoutcast.com:8000/titan-fm-106-3",
+    "logo": "https://cdn-profiles.tunein.com/s337003/images/logod.png"
+  },
+  {
+    "id": "rb_0261",
+    "name": "TOP MUSIC 91.7 (Querétaro) - 91.7 FM - XHKH-FM - Respuesta Radiofónica - Querétaro, Querétaro",
+    "genre": "radio",
+    "url": "https://secure.radiorama.mx:2125/",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s90559d.png"
+  },
+  {
+    "id": "rb_0262",
+    "name": "TROPICALÍSIMA 660 (CDMX) - 660 AM - XEDTL-AM - IMER - Ciudad de México",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8030/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/730/tropicalisima-1350-am.e8ad8578.png"
+  },
+  {
+    "id": "rb_0263",
+    "name": "ULTRA 101.3 (Toluca) - 101.3 FM - XHZA-FM - Grupo ULTRA - Toluca, Estado de México",
+    "genre": "radio",
+    "url": "https://icecastultra.duckdns.org/livetol",
+    "logo": "https://cdn-profiles.tunein.com/s8289/images/logog.png"
+  },
+  {
+    "id": "rb_0264",
+    "name": "UVA 90.5 (Aguascalientes) - 90.5 FM - XHUVA-FM - Radiogrupo - Aguascalientes, Aguascalientes",
+    "genre": "radio",
+    "url": "http://201.159.48.106:1407/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/XHUVA_UVA90.5_logo.png"
+  },
+  {
+    "id": "rb_0265",
+    "name": "VIDA AZUL 99.5 (Tuxpan) - 99.5 FM - XHTVR-FM - Radiorama - Tuxpan, Veracruz",
+    "genre": "radio",
+    "url": "http://stream.zeno.fm/47zpzaa0fkhvv",
+    "logo": "https://static-media.streema.com/media/cache/b4/14/b4142e9275d74e8cfbce0692822e56f9.jpg"
+  },
+  {
+    "id": "rb_0266",
+    "name": "VIDA ROMÁNTICA 100.9 (Poza Rica) - 100.9 FM - XHEJD-FM - Radiorama Poza Rica - Poza Rica, Veracruz",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/ub9sy68zfkhvv",
+    "logo": "https://radioramapozarica.mx/wp-content/uploads/2020/05/vida-romantica.png"
+  },
+  {
+    "id": "rb_0267",
+    "name": "VIDA ROMÁNTICA 105.5 (Piedras Negras) - 105.5 FM - XHRE-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/8e2a8v35dkhvv",
+    "logo": "https://i.postimg.cc/TP315xCz/Vida-Rom-ntica-Piedras-Negras.jpg"
+  },
+  {
+    "id": "rb_0268",
+    "name": "VIVE FM 97.7 (Montemorelos) - 97.7 FM - XHLOS-FM - Sistema de Radio y Televisión de Nuevo León - Montemorelos, Nuevo León",
+    "genre": "radio",
+    "url": "https://s2.mexside.net/8104/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-vive-fm-97-7-fm-montemorelos-mexico.webp"
+  },
+  {
+    "id": "rb_0269",
+    "name": "VOX FM 101.7 (Honduras) - 101.7 FM - HRTX - Emisoras Unidas - Tegucigalpa, Honduras",
+    "genre": "radio",
+    "url": "https://ice42.securenetsystems.net/VOXFM",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png"
+  },
+  {
+    "id": "rb_0270",
+    "name": "VOX FM 94.5 (El Salvador) - 94.5 FM - YSEC - San Salvador, El Salvador",
+    "genre": "radio",
+    "url": "https://cast3.asurahosting.com/proxy/gabriel/stream",
+    "logo": "https://www.medios.gt/galeriausuarios/salvador/imagenesmessage/imagem030130151105917.jpg"
+  },
+  {
+    "id": "rb_0271",
+    "name": "VOX FM Radio Hits 89.3 (Tampico) - 89.3 FM - XHTOT-FM - Grupo Radio Cañón - Tampico, Tamaulipas",
+    "genre": "pop",
+    "url": "https://streaming.servicioswebmx.com/8280/stream",
+    "logo": "https://cdn-profiles.tunein.com/s90135/images/logod.png"
+  },
+  {
+    "id": "rb_0272",
+    "name": "VOX FM Radio Hits 95.9 (GDL) - 95.9 FM - XHABCJ-FM - Grupo Radio Cañón - Guadalajara, Jalisco",
+    "genre": "pop",
+    "url": "https://streaming.servicioswebmx.com/8272/stream",
+    "logo": "https://cdn-profiles.tunein.com/s90132/images/logod.png"
+  },
+  {
+    "id": "rb_0273",
+    "name": "VOX FM Radio Hits 96.9 (San Luis Potosí) - 96.9 FM - XHOD-FM - Global Media - San Luis Potosí, San Luis Potosí",
+    "genre": "pop",
+    "url": "https://voxfm.b-cdn.net/stream",
+    "logo": "https://globalmediarocks.s3.us-west-1.amazonaws.com/LOGOS/LOGO_VOX.jpg"
+  },
+  {
+    "id": "rb_0274",
+    "name": "W DEPORTES - 730 AM - XEX-AM - Radiópolis - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac",
+    "logo": "https://www.wdeportes.com/pf/resources/wdeportes/touch-icon-ipad.png?d=168"
+  },
+  {
+    "id": "rb_0275",
+    "name": "W RADIO 100.1 (Morelos) - 100.1 FM - XHTIX-FM - Cuernavaca, Morelos",
+    "genre": "radio",
+    "url": "https://stream9.mexiserver.com:8342/steam",
+    "logo": "https://www.allradio.net/500/qr_SHRehF219xO33tux1R.webp"
+  },
+  {
+    "id": "rb_0276",
+    "name": "W RADIO 100.1 (San Luis Potosí) - 100.1 FM - XHPM-FM - GlobalMedia - San Luis Potosí, San Luis Potosí",
+    "genre": "radio",
+    "url": "https://wradio.b-cdn.net/stream",
+    "logo": "https://thumbnail.anii.io/mx/w-radio-100-1-fm-san-luis-potosi-mexico.webp"
+  },
+  {
+    "id": "rb_0277",
+    "name": "W RADIO 101.5 (Acapulco) - 101.5 FM - XHBB-FM - Grupo Radio Cañón - Acapulco, Guerrero",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8302/stream",
+    "logo": "https://static-media.streema.com/media/cache/d6/c0/d6c0cdb6435c89c502bb0c7f56100e71.jpg"
+  },
+  {
+    "id": "rb_0278",
+    "name": "W RADIO 101.5 (GDL) - 101.5 FM - XHWK-FM - Radiópolis - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_GDLAAC.aac",
+    "logo": "https://wradio.com.mx/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fprisaradiomx%2FZCW5NZTRPRNTHPQPRO3W2LMI7Q.jpg?auth=da97d332a5bbe53636ef6416437fd7e2ea0f5407ea73692c56ec2282081a03b0&height=545&width=545&quality=70&smart=true"
+  },
+  {
+    "id": "rb_0279",
+    "name": "W RADIO 102.9 (Toluca) - 102.9 FM - XHTOL-FM - Grupo Radio Cañón - Toluca, Estado de México",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8268/stream",
+    "logo": "https://i.postimg.cc/ZRXNqXVN/w-toluca.png"
+  },
+  {
+    "id": "rb_0280",
+    "name": "W RADIO 1030 (León) - 1030 AM - XEROPJ-AM - GlobalMedia - Lagos de Moreno, Jalisco",
+    "genre": "radio",
+    "url": "https://playradio.mx/proxy/wleon?mp=/stream",
+    "logo": "https://thumbnail.anii.io/mx/w-radio-1030-am-guanajuato-mexico.webp"
+  },
+  {
+    "id": "rb_0281",
+    "name": "W RADIO 104.5 (Córdoba) - 104.5 FM - XHEVC-FM - Grupo Radio Cañón - Córdoba, Veracruz",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8262/stream",
+    "logo": "https://cdn-profiles.tunein.com/s185059/images/logod.png"
+  },
+  {
+    "id": "rb_0282",
+    "name": "W RADIO 105.1 (Chilpancingo) - 105.1 FM - XHEZUM-FM - Grupo Radio Cañón - Chilpancingo, Guerrero",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8122/stream",
+    "logo": "https://cdn-profiles.tunein.com/s91618/images/logod.png"
+  },
+  {
+    "id": "rb_0283",
+    "name": "W RADIO 107.9 (Irapuato) - 107.9 FM - XHWE-FM - Radio Grupo Antonio Contreras - Irapuato, Guanajuato",
+    "genre": "hip-hop",
+    "url": "https://stream9.mexiserver.com:8418/stream/",
+    "logo": "https://cdn-profiles.tunein.com/s242860/images/logod.png"
+  },
+  {
+    "id": "rb_0284",
+    "name": "W RADIO 107.9 (Querétaro) - 107.9 FM - XHQG-FM - Global Media - Querétaro, Querétaro",
+    "genre": "radio",
+    "url": "https://playradio.mx/proxy/xhqg?mp=/stream",
+    "logo": "https://cdn-profiles.tunein.com/s242860/images/logod.png"
+  },
+  {
+    "id": "rb_0285",
+    "name": "W RADIO 1310 (Querétaro) - 1310 AM - XEQRMD-AM - GlobalMedia - Querétaro, Querétaro",
+    "genre": "radio",
+    "url": "http://playradio.mx/proxy/wqueretaro?mp=/stream",
+    "logo": "https://thumbnail.anii.io/mx/w-radio-1310-am-queretaro-mexico.webp"
+  },
+  {
+    "id": "rb_0286",
+    "name": "W RADIO 740 (Villahermosa) - 740 AM - XEKV-AM - Grupo Radio Cañón - Villahermosa, Tabasco",
+    "genre": "radio",
+    "url": "https://streamingcwsradio30.com/8274/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/611/w-radio-885-fm.7743dece.png"
+  },
+  {
+    "id": "rb_0287",
+    "name": "W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, Guanajuato",
+    "genre": "radio",
+    "url": "https://playradio.mx/proxy/los40jose?mp=/stream",
+    "logo": "https://globalmediarocks.s3-us-west-1.amazonaws.com/uploads/4e4467ce-9612-4935-82cc-77198589967d/PERFIL.jpg"
+  },
+  {
+    "id": "rb_0288",
+    "name": "W RADIO 90.3 (Puerto Vallarta) - 90.3 FM - XHPVA-FM - GlobalMedia - Puerto Vallarta, Jalisco",
+    "genre": "radio",
+    "url": "https://playradio.mx/proxy/wvallarta?mp=/stream",
+    "logo": "https://cdn-profiles.tunein.com/s90971/images/logod.jpg"
+  },
+  {
+    "id": "rb_0289",
+    "name": "W RADIO 91.5 (Tapachula) - 91.5 FM - XHTAC-FM - Grupo Radio Cañón - Tapachula, Chiapas",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8248/stream",
+    "logo": "https://cdn-profiles.tunein.com/s91948/images/logod.png"
+  },
+  {
+    "id": "rb_0290",
+    "name": "W RADIO 92.1 (Puebla) - 92.1 FM - XHEG-FM - Grupo Radio Cañón - Puebla, Puebla",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8212/stream",
+    "logo": "https://cache.usercontentapp.com/logo/57278.png"
+  },
+  {
+    "id": "rb_0291",
+    "name": "W RADIO 92.5 (Durango) - 92.5 FM - XHCCAU-FM - Grupo Radio Cañón - Durango, Durango",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8264/stream",
+    "logo": "https://cdn.instant.audio/images/logos/emisoras-com-mx/w-radio-victoria-de-durango.png"
+  },
+  {
+    "id": "rb_0292",
+    "name": "W RADIO 92.9 (Xalapa) - 92.9 FM - XHJH-FM - Grupo Radio Cañón - Xalapa, Veracruz",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8294/stream",
+    "logo": "https://cdn-profiles.tunein.com/s90136/images/logod.png"
+  },
+  {
+    "id": "rb_0293",
+    "name": "W RADIO 940 (Mexicali) - 940 AM - XEMMM-AM - Grupo Radio Cañón - Mexicali, Baja California",
+    "genre": "radio",
+    "url": "https://streaming.servicioswebmx.com/8284/stream",
+    "logo": "https://cdn-profiles.tunein.com/s44051/images/logod.png"
+  },
+  {
+    "id": "rb_0294",
+    "name": "W RADIO 95.7 (Oaxaca) - 95.7 FM - XHCE-FM - Grupo Encuentro - Oaxaca, Oaxaca",
+    "genre": "radio",
+    "url": "https://www.encuentroradiotv.com:8443/oaxaca957.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s87880/images/logod.jpg"
+  },
+  {
+    "id": "rb_0295",
+    "name": "W RADIO 96.9 (CDMX) - 96.9 FM - XEW-FM - Radiópolis - Ciudad de México",
+    "genre": "radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s16553/images/logod.jpg"
+  },
+  {
+    "id": "rb_0296",
+    "name": "W RADIO 98.5 (Tututepec) - 98.5 FM - XHPVTS-FM - Grupo Rojas - Tututepec, Oaxaca",
+    "genre": "radio",
+    "url": "https://stream11.mexiserver.com:9031/stream",
+    "logo": "https://wradio98-5.mx/img/Logo-W-Radio-Costa.png"
+  },
+  {
+    "id": "rb_0297",
+    "name": "W1420 (Matamoros) - 1420 AM - XEEW-AM - RadioDual - Matamoros, Tamaulipas",
+    "genre": "radio",
+    "url": "http://radio.alphamx.net:8100/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/XEEW_W1420_logo.png"
+  },
+  {
+    "id": "rb_0298",
+    "name": "WorkoutTime USA",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/60pg6mi67hytv",
+    "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/wwYkKshlr8K1X3i0JLV-I51b8dt3bzZXTKlYyMf6F-o/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1E5SWJRdHdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvNFM2aWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM3NDkxOTAwMA.webp"
+  },
+  {
+    "id": "rb_0299",
+    "name": "WOW 101.1 (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón, Coahuila",
+    "genre": "radio",
+    "url": "https://stream.zeno.fm/z2hquf0sa6wvv",
+    "logo": "https://thumbnail.anii.io/mx/radio-wow-101-1-fm-torreon-mexico.webp"
+  },
+  {
+    "id": "rb_0300",
+    "name": "WVPE HD3 - Blues",
+    "genre": "jazz",
+    "url": "http://live.str3am.com:2240/live",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s244589d.png"
+  },
+  {
+    "id": "rb_0301",
+    "name": "XE'EK 101.5 (Mérida) - 101.5 FM - XHYK-FM - Península Studios - Mérida, Yucatán",
+    "genre": "radio",
+    "url": "https://s1.voscast.com:10269/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-xe'ek-101-5-fm-merida-mexico.webp"
+  },
+  {
+    "id": "rb_0302",
+    "name": "XEU 98.1 (Veracruz) - 98.1 FM - XHU-FM - Grupo Pazos Radio - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "http://sgaudio.centrocibernetico.com/xeu",
+    "logo": "https://cdn-profiles.tunein.com/s87588/images/logog.jpg"
+  },
+  {
+    "id": "rb_0303",
+    "name": "XEVA 91.7 (Villahermosa) - 91.7 FM - XHVA-FM - Grupo Pazos - Villahermosa, Tabasco",
+    "genre": "radio",
+    "url": "https://sg.centrocibernetico.com/xevavillahermosa",
+    "logo": "https://xeva.com.mx/contenidos/imagenes/logos/logo-xeva-320px.webp"
+  },
+  {
+    "id": "rb_0304",
+    "name": "XEVT 104.1 (Villahermosa) - 104.1 FM - XHVT-FM - Telereportaje/XEVT - Villahermosa, Tabasco",
+    "genre": "radio",
+    "url": "https://radio.golsystems.com.mx/8054/stream",
+    "logo": "https://blob.xevt.com/assets/img/logo/logoxevt3.png"
+  },
+  {
+    "id": "rb_0305",
+    "name": "XY 90.5 FM - Tegucigalpa, Honduras",
+    "genre": "radio",
+    "url": "http://ice42.securenetsystems.net/XY905",
+    "logo": "https://static-media.streema.com/media/cache/60/0c/600c1a1e138241853bf8bc925f0edf9a.jpg"
+  },
+  {
+    "id": "rb_0306",
+    "name": "YA! FM 102.9 (Veracruz) - 102.9 FM - XHTS-FM - Grupo Pazos - Veracruz, Veracruz",
+    "genre": "radio",
+    "url": "https://sgaudio.centrocibernetico.com/yafmveracruz",
+    "logo": "https://cdn-profiles.tunein.com/s87556/images/logog.jpg"
+  },
+  {
+    "id": "rb_0307",
+    "name": "YA! FM 95.7 (Villahermosa) - 95.7 FM - XHTAB-FM - Grupo Pazos - Villahermosa, Tabasco",
+    "genre": "radio",
+    "url": "https://sg.centrocibernetico.com/yafmvillahermosa",
+    "logo": "https://cdn-profiles.tunein.com/s143833/images/logog.jpg"
+  },
+  {
+    "id": "rb_0308",
+    "name": "YUCATÁN FM 92.9 (Mérida) - 92.9 FM - XHYUC-FM - IMER - Mérida, Yucatán",
+    "genre": "radio",
+    "url": "http://s2.mexside.net/8054/stream",
+    "logo": "https://thumbnail.anii.io/mx/radio-yucatan-92-9-fm-mexico.webp"
+  },
+  {
+    "id": "rb_0309",
+    "name": "Z 92 92.3 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida, EUA",
+    "genre": "radio",
+    "url": "https://liveaudio.lamusica.com/MIA_WCMQ_icy",
+    "logo": "https://cdn-profiles.tunein.com/s27943/images/logod.png"
+  },
+  {
+    "id": "rb_0310",
+    "name": "ZER RADIO 1320 (CDMX) - 1320 AM - XEARZ-AM - Grupo Radiofónico ZER - Ciudad de México",
+    "genre": "radio",
+    "url": "https://cast.zuperdns.net/8032/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/463/zer-radio-1650-am.6f5d0fcb.jpg"
+  },
+  {
+    "id": "rb_0311",
+    "name": "ZONA TRES 91.5 (GDL) - 91.5 FM - XHGEO-FM - Grupo Promomedios - Guadalajara, Jalisco",
+    "genre": "radio",
+    "url": "https://strcdn.klm99.com/8116/stream",
+    "logo": "https://cdn-profiles.tunein.com/s2972/images/logod.png"
+  },
+  {
+    "id": "rb_0312",
+    "name": "ZOOM 95 95.5 (Hermosillo) - 95.5 FM - XHCD-FM - Hermosillo, Sonora",
+    "genre": "radio",
+    "url": "http://148.251.92.113:8125/stream",
+    "logo": "https://cdn-profiles.tunein.com/s87571/images/logod.jpg"
+  },
+  {
+    "id": "rb_0313",
+    "name": "ΕΝΑ 90.5",
+    "genre": "radio",
+    "url": "https://rdst.win:48000/stream?type=.mp3",
+    "logo": "https://enaradio.gr/wp-content/uploads/2017/07/cropped-big_png-2-192x192.png"
+  },
+  {
+    "id": "rb_0314",
+    "name": "إذاعة مشاري العفاسي",
+    "genre": "radio",
+    "url": "https://qurango.net/radio/mishary_alafasi",
+    "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
+  },
+  {
+    "id": "rb_0315",
+    "name": "__DEUTSCHRAP__ by rautemusik (rm.fm)",
+    "genre": "hip-hop",
+    "url": "https://deutschrap-high.rautemusik.fm/?ref=radiobrowser",
+    "logo": "https://i.ibb.co/jMH358Y/deutschrap.jpg"
+  },
+  {
+    "id": "rb_0316",
+    "name": "__KARNEVAL__ by rautemusik (rm.fm)",
+    "genre": "radio",
+    "url": "https://karneval-high.rautemusik.fm/?ref=radiobrowser",
+    "logo": "https://i.ibb.co/GHPKzgV/karneval.jpg"
+  },
+  {
+    "id": "rb_0317",
+    "name": "__LOVEHITS__ by rautemusik (rm.fm)",
+    "genre": "pop",
+    "url": "https://lovehits-high.rautemusik.fm/?ref=radiobrowser",
+    "logo": "https://i.ibb.co/thKTGN3/lovehits.jpg"
+  },
+  {
+    "id": "rb_0318",
+    "name": "__SCHLAGER OLDIES__ by rautemusik (rm.fm)",
+    "genre": "radio",
+    "url": "https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser",
+    "logo": "https://i.ibb.co/NNxSg2H/schlageroldies.jpg"
+  },
+  {
+    "id": "rb_0319",
+    "name": "__SEX__ by rautemusik (rm.fm)",
+    "genre": "radio",
+    "url": "https://sex-high.rautemusik.fm/?ref=radiobrowser",
+    "logo": "https://i.ibb.co/sQNvYtT/sex.jpg"
+  },
+  {
+    "id": "rb_0320",
+    "name": "__THE CHRISTMAS CHANNEL__ by rautemusik (rm.fm)",
+    "genre": "radio",
+    "url": "https://christmas-high.rautemusik.fm/?ref=radiobrowser",
+    "logo": "https://christmas-channel.com/wp-content/themes/christmaschannel2020/img/favicon.png"
+  },
+  {
+    "id": "rb_0321",
+    "name": "__WACKENRADIO__ by rautemusik (rm.fm)",
+    "genre": "radio",
+    "url": "https://wackenradio-high.rautemusik.fm/?ref=radiobrowser",
+    "logo": "https://i.ibb.co/rGpB2Bx/wackenradio.jpg"
+  },
+  {
+    "id": "rb_0322",
+    "name": "_Antenna Web Assisi",
+    "genre": "radio",
+    "url": "https://italiavera.radioca.st/stream?type=http&nocache=296",
+    "logo": "https://antennaweb.it/wp-content/uploads/2023/08/rap180-100x100.png"
+  },
+  {
+    "id": "rb_0323",
+    "name": "_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!",
+    "genre": "pop",
+    "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio",
+    "logo": "https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png"
+  },
+  {
+    "id": "rb_0324",
+    "name": "- 0 N - 2000s on Radio",
+    "genre": "radio",
+    "url": "https://0n-2000s.radionetz.de/0n-2000s.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-2000s_600x600.jpg"
+  },
+  {
+    "id": "rb_0325",
+    "name": "- 0 N - 2000s on Radio",
+    "genre": "radio",
+    "url": "https://0n-2000s.radionetz.de/0n-2000s.aac",
+    "logo": "https://www.0nradio.com/logos/0n-2000s_600x600.jpg"
+  },
+  {
+    "id": "rb_0326",
+    "name": "- 0 N - 2010s on Radio",
+    "genre": "radio",
+    "url": "https://0n-2010s.radionetz.de/0n-2010s.aac",
+    "logo": "https://www.0nradio.com/logos/0n-2010s_600x600.jpg"
+  },
+  {
+    "id": "rb_0327",
+    "name": "- 0 N - 2010s on Radio",
+    "genre": "radio",
+    "url": "https://0n-2010s.radionetz.de/0n-2010s.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-2010s_600x600.jpg"
+  },
+  {
+    "id": "rb_0328",
+    "name": "- 0 N - 50s on Radio",
+    "genre": "radio",
+    "url": "https://0n-50s.radionetz.de/0n-50s.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-50s_600x600.jpg"
+  },
+  {
+    "id": "rb_0329",
+    "name": "- 0 N - 50s on Radio",
+    "genre": "radio",
+    "url": "https://0n-50s.radionetz.de/0n-50s.aac",
+    "logo": "https://www.0nradio.com/logos/0n-50s_600x600.jpg"
+  },
+  {
+    "id": "rb_0330",
+    "name": "- 0 N - 60s on Radio",
+    "genre": "radio",
+    "url": "https://0n-60s.radionetz.de/0n-60s.aac",
+    "logo": "https://www.0nradio.com/logos/0n-60s_600x600.jpg"
+  },
+  {
+    "id": "rb_0331",
+    "name": "- 0 N - 60s on Radio",
+    "genre": "radio",
+    "url": "https://0n-60s.radionetz.de/0n-60s.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-60s_600x600.jpg"
+  },
+  {
+    "id": "rb_0332",
+    "name": "- 0 N - 70s on Radio",
+    "genre": "radio",
+    "url": "https://0n-70s.radionetz.de/0n-70s.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-70s_600x600.jpg"
+  },
+  {
+    "id": "rb_0333",
+    "name": "- 0 N - 70s on Radio",
+    "genre": "radio",
+    "url": "https://0n-70s.radionetz.de/0n-70s.aac",
+    "logo": "https://www.0nradio.com/logos/0n-70s_600x600.jpg"
+  },
+  {
+    "id": "rb_0334",
+    "name": "- 0 N - 80s on Radio",
+    "genre": "radio",
+    "url": "https://0n-80s.radionetz.de/0n-80s.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-80s_600x600.jpg"
+  },
+  {
+    "id": "rb_0335",
+    "name": "- 0 N - 80s on Radio",
+    "genre": "radio",
+    "url": "https://0n-80s.radionetz.de/0n-80s.aac",
+    "logo": "https://www.0nradio.com/logos/0n-80s_600x600.jpg"
+  },
+  {
+    "id": "rb_0336",
+    "name": "- 0 N - 90s on Radio",
+    "genre": "radio",
+    "url": "https://0n-90s.radionetz.de/0n-90s.aac",
+    "logo": "https://www.0nradio.com/logos/0n-90s_600x600.jpg"
+  },
+  {
+    "id": "rb_0337",
+    "name": "- 0 N - 90s on Radio",
+    "genre": "radio",
+    "url": "https://0n-90s.radionetz.de/0n-90s.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-90s_600x600.jpg"
+  },
+  {
+    "id": "rb_0338",
+    "name": "- 0 N - Black on Radio",
+    "genre": "radio",
+    "url": "https://0n-black.radionetz.de/0n-black.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-black_600x600.jpg"
+  },
+  {
+    "id": "rb_0339",
+    "name": "- 0 N - Black on Radio",
+    "genre": "radio",
+    "url": "https://0n-black.radionetz.de/0n-black.aac",
+    "logo": "https://www.0nradio.com/logos/0n-black_600x600.jpg"
+  },
+  {
+    "id": "rb_0340",
+    "name": "- 0 N - Blues on Radio",
+    "genre": "jazz",
+    "url": "https://0n-blues.radionetz.de/0n-blues.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-blues_600x600.jpg"
+  },
+  {
+    "id": "rb_0341",
+    "name": "- 0 N - Blues on Radio",
+    "genre": "jazz",
+    "url": "https://0n-blues.radionetz.de/0n-blues.aac",
+    "logo": "https://www.0nradio.com/logos/0n-blues_600x600.jpg"
+  },
+  {
+    "id": "rb_0342",
+    "name": "- 0 N - Charts on Radio",
+    "genre": "pop",
+    "url": "https://0n-charts.radionetz.de/0n-charts.aac",
+    "logo": "https://www.0nradio.com/logos/0n-charts_600x600.jpg"
+  },
+  {
+    "id": "rb_0343",
+    "name": "- 0 N - Charts on Radio",
+    "genre": "pop",
+    "url": "https://0n-charts.radionetz.de/0n-charts.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-charts_600x600.jpg"
+  },
+  {
+    "id": "rb_0344",
+    "name": "- 0 N - Chillout on Radio",
+    "genre": "chill",
+    "url": "https://0n-chillout.radionetz.de/0n-chillout.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-chillout_600x600.jpg"
+  },
+  {
+    "id": "rb_0345",
+    "name": "- 0 N - Chillout on Radio",
+    "genre": "chill",
+    "url": "https://0n-chillout.radionetz.de/0n-chillout.aac",
+    "logo": "https://www.0nradio.com/logos/0n-chillout_600x600.jpg"
+  },
+  {
+    "id": "rb_0346",
+    "name": "- 0 N - Christmas on Radio",
+    "genre": "radio",
+    "url": "https://0n-christmas.radionetz.de/0n-christmas.aac",
+    "logo": "https://www.0nradio.com/logos/0n-christmas_600x600.jpg"
+  },
+  {
+    "id": "rb_0347",
+    "name": "- 0 N - Christmas on Radio",
+    "genre": "radio",
+    "url": "https://0n-christmas.radionetz.de/0n-christmas.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-christmas_600x600.jpg"
+  },
+  {
+    "id": "rb_0348",
+    "name": "- 0 N - Classic Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-classicrock.radionetz.de/0n-classicrock.aac",
+    "logo": "https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0349",
+    "name": "- 0 N - Classic Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0350",
+    "name": "- 0 N - Country on Radio",
+    "genre": "country",
+    "url": "https://0n-country.radionetz.de/0n-country.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-country_600x600.jpg"
+  },
+  {
+    "id": "rb_0351",
+    "name": "- 0 N - Country on Radio",
+    "genre": "country",
+    "url": "https://0n-country.radionetz.de/0n-country.aac",
+    "logo": "https://www.0nradio.com/logos/0n-country_600x600.jpg"
+  },
+  {
+    "id": "rb_0352",
+    "name": "- 0 N - Dance on Radio",
+    "genre": "electronic",
+    "url": "https://0n-dance.radionetz.de/0n-dance.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-dance_600x600.jpg"
+  },
+  {
+    "id": "rb_0353",
+    "name": "- 0 N - Dance on Radio",
+    "genre": "electronic",
+    "url": "https://0n-dance.radionetz.de/0n-dance.aac",
+    "logo": "https://www.0nradio.com/logos/0n-dance_600x600.jpg"
+  },
+  {
+    "id": "rb_0354",
+    "name": "- 0 N - Deutsch Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-deutsch-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0355",
+    "name": "- 0 N - Deutsch Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-deutschpop.radionetz.de/0n-deutschpop.aac",
+    "logo": "https://www.0nradio.com/logos/0n-deutsch-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0356",
+    "name": "- 0 N - Deutsch Rap on Radio",
+    "genre": "hip-hop",
+    "url": "https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-deutsch-rap_600x600.jpg"
+  },
+  {
+    "id": "rb_0357",
+    "name": "- 0 N - Deutsch Rap on Radio",
+    "genre": "hip-hop",
+    "url": "https://0n-deutschrap.radionetz.de/0n-deutschrap.aac",
+    "logo": "https://www.0nradio.com/logos/0n-deutsch-rap_600x600.jpg"
+  },
+  {
+    "id": "rb_0358",
+    "name": "- 0 N - Deutsch Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-deutschrock.radionetz.de/0n-deutschrock.aac",
+    "logo": "https://www.0nradio.com/logos/0n-deutsch-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0359",
+    "name": "- 0 N - Deutsch Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-deutsch-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0360",
+    "name": "- 0 N - Disco on Radio",
+    "genre": "radio",
+    "url": "https://0n-disco.radionetz.de/0n-disco.aac",
+    "logo": "https://www.0nradio.com/logos/0n-disco_600x600.jpg"
+  },
+  {
+    "id": "rb_0361",
+    "name": "- 0 N - Disco on Radio",
+    "genre": "radio",
+    "url": "https://0n-disco.radionetz.de/0n-disco.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-disco_600x600.jpg"
+  },
+  {
+    "id": "rb_0362",
+    "name": "- 0 N - Electro on Radio",
+    "genre": "radio",
+    "url": "https://0n-electro.radionetz.de/0n-electro.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-electro_600x600.jpg"
+  },
+  {
+    "id": "rb_0363",
+    "name": "- 0 N - Electro on Radio",
+    "genre": "radio",
+    "url": "https://0n-electro.radionetz.de/0n-electro.aac",
+    "logo": "https://www.0nradio.com/logos/0n-electro_600x600.jpg"
+  },
+  {
+    "id": "rb_0364",
+    "name": "- 0 N - Evergreens on Radio",
+    "genre": "radio",
+    "url": "https://0n-evergreens.radionetz.de/0n-evergreens.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-evergreens_600x600.jpg"
+  },
+  {
+    "id": "rb_0365",
+    "name": "- 0 N - Evergreens on Radio",
+    "genre": "radio",
+    "url": "https://0n-evergreens.radionetz.de/0n-evergreens.aac",
+    "logo": "https://www.0nradio.com/logos/0n-evergreens_600x600.jpg"
+  },
+  {
+    "id": "rb_0366",
+    "name": "- 0 N - Gay on Radio",
+    "genre": "radio",
+    "url": "https://0n-gay.radionetz.de/0n-gay.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-gay_600x600.jpg"
+  },
+  {
+    "id": "rb_0367",
+    "name": "- 0 N - Gay on Radio",
+    "genre": "radio",
+    "url": "https://0n-gay.radionetz.de/0n-gay.aac",
+    "logo": "https://www.0nradio.com/logos/0n-gay_600x600.jpg"
+  },
+  {
+    "id": "rb_0368",
+    "name": "- 0 N - Gold on Radio",
+    "genre": "radio",
+    "url": "https://0n-gold.radionetz.de/0n-gold.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-gold_600x600.jpg"
+  },
+  {
+    "id": "rb_0369",
+    "name": "- 0 N - Gold on Radio",
+    "genre": "radio",
+    "url": "https://0n-gold.radionetz.de/0n-gold.aac",
+    "logo": "https://www.0nradio.com/logos/0n-gold_600x600.jpg"
+  },
+  {
+    "id": "rb_0370",
+    "name": "- 0 N - Gothic on Radio",
+    "genre": "radio",
+    "url": "https://0n-gothic.radionetz.de/0n-gothic.aac",
+    "logo": "https://www.0nradio.com/logos/0n-gothic_600x600.jpg"
+  },
+  {
+    "id": "rb_0371",
+    "name": "- 0 N - Gothic on Radio",
+    "genre": "radio",
+    "url": "https://0n-gothic.radionetz.de/0n-gothic.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-gothic_600x600.jpg"
+  },
+  {
+    "id": "rb_0372",
+    "name": "- 0 N - Greatest Hits on Radio",
+    "genre": "pop",
+    "url": "https://0n-greatesthits.radionetz.de/0n-greatesthits.aac",
+    "logo": "https://www.0nradio.com/logos/0n-greatest-hits_600x600.jpg"
+  },
+  {
+    "id": "rb_0373",
+    "name": "- 0 N - Greatest Hits on Radio",
+    "genre": "pop",
+    "url": "https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-greatest-hits_600x600.jpg"
+  },
+  {
+    "id": "rb_0374",
+    "name": "- 0 N - Heavy Metal on Radio",
+    "genre": "rock",
+    "url": "https://0n-heavymetal.radionetz.de/0n-heavymetal.aac",
+    "logo": "https://www.0nradio.com/logos/0n-heavymetal_600x600.jpg"
+  },
+  {
+    "id": "rb_0375",
+    "name": "- 0 N - Heavy Metal on Radio",
+    "genre": "rock",
+    "url": "https://0n-heavymetal.radionetz.de/0n-heavymetal.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-heavymetal_600x600.jpg"
+  },
+  {
+    "id": "rb_0376",
+    "name": "- 0 N - Hits on Radio",
+    "genre": "pop",
+    "url": "https://0n-hits.radionetz.de/0n-hits.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-hits_600x600.jpg"
+  },
+  {
+    "id": "rb_0377",
+    "name": "- 0 N - Hits on Radio",
+    "genre": "pop",
+    "url": "https://0n-hits.radionetz.de/0n-hits.aac",
+    "logo": "https://www.0nradio.com/logos/0n-hits_600x600.jpg"
+  },
+  {
+    "id": "rb_0378",
+    "name": "- 0 N - Hot on Radio",
+    "genre": "radio",
+    "url": "https://0n-hot.radionetz.de/0n-hot.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-hot_600x600.jpg"
+  },
+  {
+    "id": "rb_0379",
+    "name": "- 0 N - Hot on Radio",
+    "genre": "radio",
+    "url": "https://0n-hot.radionetz.de/0n-hot.aac",
+    "logo": "https://www.0nradio.com/logos/0n-hot_600x600.jpg"
+  },
+  {
+    "id": "rb_0380",
+    "name": "- 0 N - House on Radio",
+    "genre": "electronic",
+    "url": "https://0n-house.radionetz.de/0n-house.aac",
+    "logo": "https://www.0nradio.com/logos/0n-house_600x600.jpg"
+  },
+  {
+    "id": "rb_0381",
+    "name": "- 0 N - House on Radio",
+    "genre": "electronic",
+    "url": "https://0n-house.radionetz.de/0n-house.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-house_600x600.jpg"
+  },
+  {
+    "id": "rb_0382",
+    "name": "- 0 N - Indie on Radio",
+    "genre": "radio",
+    "url": "https://0n-indie.radionetz.de/0n-indie.aac",
+    "logo": "https://www.0nradio.com/logos/0n-indie_600x600.jpg"
+  },
+  {
+    "id": "rb_0383",
+    "name": "- 0 N - Indie on Radio",
+    "genre": "radio",
+    "url": "https://0n-indie.radionetz.de/0n-indie.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-indie_600x600.jpg"
+  },
+  {
+    "id": "rb_0384",
+    "name": "- 0 N - Jazz on Radio",
+    "genre": "jazz",
+    "url": "https://0n-jazz.radionetz.de/0n-jazz.aac",
+    "logo": "https://www.0nradio.com/logos/0n-jazz_600x600.jpg"
+  },
+  {
+    "id": "rb_0385",
+    "name": "- 0 N - Jazz on Radio",
+    "genre": "jazz",
+    "url": "https://0n-jazz.radionetz.de/0n-jazz.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-jazz_600x600.jpg"
+  },
+  {
+    "id": "rb_0386",
+    "name": "- 0 N - Jukebox on Radio",
+    "genre": "radio",
+    "url": "https://0n-jukebox.radionetz.de/0n-jukebox.aac",
+    "logo": "https://www.0nradio.com/logos/0n-jukebox_600x600.jpg"
+  },
+  {
+    "id": "rb_0387",
+    "name": "- 0 N - Jukebox on Radio",
+    "genre": "radio",
+    "url": "https://0n-jukebox.radionetz.de/0n-jukebox.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-jukebox_600x600.jpg"
+  },
+  {
+    "id": "rb_0388",
+    "name": "- 0 N - K-Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-kpop.radionetz.de/0n-kpop.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-k-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0389",
+    "name": "- 0 N - K-Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-kpop.radionetz.de/0n-kpop.aac",
+    "logo": "https://www.0nradio.com/logos/0n-k-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0390",
+    "name": "- 0 N - Klassik on Radio",
+    "genre": "radio",
+    "url": "https://0n-klassik.radionetz.de/0n-klassik.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-klassik_600x600.jpg"
+  },
+  {
+    "id": "rb_0391",
+    "name": "- 0 N - Klassik on Radio",
+    "genre": "radio",
+    "url": "https://0n-klassik.radionetz.de/0n-klassik.aac",
+    "logo": "https://www.0nradio.com/logos/0n-klassik_600x600.jpg"
+  },
+  {
+    "id": "rb_0392",
+    "name": "- 0 N - Latin on Radio",
+    "genre": "latin",
+    "url": "https://0n-latin.radionetz.de/0n-latin.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-latin_600x600.jpg"
+  },
+  {
+    "id": "rb_0393",
+    "name": "- 0 N - Lounge on Radio",
+    "genre": "chill",
+    "url": "https://0n-lounge.radionetz.de/0n-lounge.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-lounge_600x600.jpg"
+  },
+  {
+    "id": "rb_0394",
+    "name": "- 0 N - Lounge on Radio",
+    "genre": "chill",
+    "url": "https://0n-lounge.radionetz.de/0n-lounge.aac",
+    "logo": "https://www.0nradio.com/logos/0n-lounge_600x600.jpg"
+  },
+  {
+    "id": "rb_0395",
+    "name": "- 0 N - Love on Radio",
+    "genre": "radio",
+    "url": "https://0n-love.radionetz.de/0n-love.aac",
+    "logo": "https://www.0nradio.com/logos/0n-love_600x600.jpg"
+  },
+  {
+    "id": "rb_0396",
+    "name": "- 0 N - Love on Radio",
+    "genre": "radio",
+    "url": "https://0n-love.radionetz.de/0n-love.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-love_600x600.jpg"
+  },
+  {
+    "id": "rb_0397",
+    "name": "- 0 N - Movies on Radio",
+    "genre": "radio",
+    "url": "https://0n-movies.radionetz.de/0n-movies.aac",
+    "logo": "https://www.0nradio.com/logos/0n-movies_600x600.jpg"
+  },
+  {
+    "id": "rb_0398",
+    "name": "- 0 N - Movies on Radio",
+    "genre": "radio",
+    "url": "https://0n-movies.radionetz.de/0n-movies.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-movies_600x600.jpg"
+  },
+  {
+    "id": "rb_0399",
+    "name": "- 0 N - New Wave on Radio",
+    "genre": "radio",
+    "url": "https://0n-newwave.radionetz.de/0n-newwave.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-newwave_600x600.jpg"
+  },
+  {
+    "id": "rb_0400",
+    "name": "- 0 N - New Wave on Radio",
+    "genre": "radio",
+    "url": "https://0n-newwave.radionetz.de/0n-newwave.aac",
+    "logo": "https://www.0nradio.com/logos/0n-newwave_600x600.jpg"
+  },
+  {
+    "id": "rb_0401",
+    "name": "- 0 N - Oldies on Radio",
+    "genre": "radio",
+    "url": "https://0n-oldies.radionetz.de/0n-oldies.aac",
+    "logo": "https://www.0nradio.com/logos/0n-oldies_600x600.jpg"
+  },
+  {
+    "id": "rb_0402",
+    "name": "- 0 N - Oldies on Radio",
+    "genre": "radio",
+    "url": "https://0n-oldies.radionetz.de/0n-oldies.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-oldies_600x600.jpg"
+  },
+  {
+    "id": "rb_0403",
+    "name": "- 0 N - Party on Radio",
+    "genre": "radio",
+    "url": "https://0n-party.radionetz.de/0n-party.aac",
+    "logo": "https://www.0nradio.com/logos/0n-party_600x600.jpg"
+  },
+  {
+    "id": "rb_0404",
+    "name": "- 0 N - Party on Radio",
+    "genre": "radio",
+    "url": "https://0n-party.radionetz.de/0n-party.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-party_600x600.jpg"
+  },
+  {
+    "id": "rb_0405",
+    "name": "- 0 N - Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-pop.radionetz.de/0n-pop.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0406",
+    "name": "- 0 N - Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-pop.radionetz.de/0n-pop.aac",
+    "logo": "https://www.0nradio.com/logos/0n-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0407",
+    "name": "- 0 N - Radio on Radio",
+    "genre": "radio",
+    "url": "https://0n-radio.radionetz.de/0n-radio.aac",
+    "logo": "https://www.0nradio.com/logos/0n-radio_600x600.jpg"
+  },
+  {
+    "id": "rb_0408",
+    "name": "- 0 N - Radio on Radio",
+    "genre": "radio",
+    "url": "https://0n-radio.radionetz.de/0n-radio.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-radio_600x600.jpg"
+  },
+  {
+    "id": "rb_0409",
+    "name": "- 0 N - Reggae on Radio",
+    "genre": "reggae",
+    "url": "https://0n-reggae.radionetz.de/0n-reggae.aac",
+    "logo": "https://www.0nradio.com/logos/0n-reggae_600x600.jpg"
+  },
+  {
+    "id": "rb_0410",
+    "name": "- 0 N - Reggae on Radio",
+    "genre": "reggae",
+    "url": "https://0n-reggae.radionetz.de/0n-reggae.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-reggae_600x600.jpg"
+  },
+  {
+    "id": "rb_0411",
+    "name": "- 0 N - Relax on Radio",
+    "genre": "chill",
+    "url": "https://0n-relax.radionetz.de/0n-relax.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-relax_600x600.jpg"
+  },
+  {
+    "id": "rb_0412",
+    "name": "- 0 N - Relax on Radio",
+    "genre": "chill",
+    "url": "https://0n-relax.radionetz.de/0n-relax.aac",
+    "logo": "https://www.0nradio.com/logos/0n-relax_600x600.jpg"
+  },
+  {
+    "id": "rb_0413",
+    "name": "- 0 N - Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-rock.radionetz.de/0n-rock.aac",
+    "logo": "https://www.0nradio.com/logos/0n-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0414",
+    "name": "- 0 N - Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-rock.radionetz.de/0n-rock.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0415",
+    "name": "- 0 N - Schlager Gold on Radio",
+    "genre": "radio",
+    "url": "https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg"
+  },
+  {
+    "id": "rb_0416",
+    "name": "- 0 N - Schlager Gold on Radio",
+    "genre": "radio",
+    "url": "https://0n-schlagergold.radionetz.de/0n-schlagergold.aac",
+    "logo": "https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg"
+  },
+  {
+    "id": "rb_0417",
+    "name": "- 0 N - Schlager Kult on Radio",
+    "genre": "radio",
+    "url": "https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-schlager-kult_600x600.jpg"
+  },
+  {
+    "id": "rb_0418",
+    "name": "- 0 N - Schlager on Radio",
+    "genre": "radio",
+    "url": "https://0n-schlager.radionetz.de/0n-schlager.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-schlager_600x600.jpg"
+  },
+  {
+    "id": "rb_0419",
+    "name": "- 0 N - Schlager on Radio",
+    "genre": "radio",
+    "url": "https://0n-schlager.radionetz.de/0n-schlager.aac",
+    "logo": "https://www.0nradio.com/logos/0n-schlager_600x600.jpg"
+  },
+  {
+    "id": "rb_0420",
+    "name": "- 0 N - Smooth Jazz on Radio",
+    "genre": "jazz",
+    "url": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac",
+    "logo": "https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg"
+  },
+  {
+    "id": "rb_0421",
+    "name": "- 0 N - Smooth Jazz on Radio",
+    "genre": "jazz",
+    "url": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg"
+  },
+  {
+    "id": "rb_0422",
+    "name": "- 0 N - Soft Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-softpop.radionetz.de/0n-softpop.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-soft-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0423",
+    "name": "- 0 N - Soft Pop on Radio",
+    "genre": "pop",
+    "url": "https://0n-softpop.radionetz.de/0n-softpop.aac",
+    "logo": "https://www.0nradio.com/logos/0n-soft-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0424",
+    "name": "- 0 N - Soft Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-softrock.radionetz.de/0n-softrock.aac",
+    "logo": "https://www.0nradio.com/logos/0n-soft-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0425",
+    "name": "- 0 N - Soft Rock on Radio",
+    "genre": "rock",
+    "url": "https://0n-softrock.radionetz.de/0n-softrock.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-soft-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0426",
+    "name": "- 0 N - Techno on Radio",
+    "genre": "electronic",
+    "url": "https://0n-techno.radionetz.de/0n-techno.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-techno_600x600.jpg"
+  },
+  {
+    "id": "rb_0427",
+    "name": "- 0 N - Techno on Radio",
+    "genre": "electronic",
+    "url": "https://0n-techno.radionetz.de/0n-techno.aac",
+    "logo": "https://www.0nradio.com/logos/0n-techno_600x600.jpg"
+  },
+  {
+    "id": "rb_0428",
+    "name": "- 0 N - Top 40 on Radio",
+    "genre": "pop",
+    "url": "https://0n-top40.radionetz.de/0n-top40.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-top-40_600x600.jpg"
+  },
+  {
+    "id": "rb_0429",
+    "name": "- 0 N - Top 40 on Radio",
+    "genre": "pop",
+    "url": "https://0n-top40.radionetz.de/0n-top40.aac",
+    "logo": "https://www.0nradio.com/logos/0n-top-40_600x600.jpg"
+  },
+  {
+    "id": "rb_0430",
+    "name": "- 0 N - Volksmusik on Radio",
+    "genre": "radio",
+    "url": "https://0n-volksmusik.radionetz.de/0n-volksmusik.aac",
+    "logo": "https://www.0nradio.com/logos/0n-volksmusik_600x600.jpg"
+  },
+  {
+    "id": "rb_0431",
+    "name": "- 0 N - Volksmusik on Radio",
+    "genre": "radio",
+    "url": "https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-volksmusik_600x600.jpg"
+  },
+  {
+    "id": "rb_0432",
+    "name": "- 0 N - Weihnachten on Radio",
+    "genre": "radio",
+    "url": "https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3",
+    "logo": "https://www.0nradio.com/logos/0n-weihnachten_600x600.jpg"
+  },
+  {
+    "id": "rb_0433",
+    "name": "- 1 A - 2000er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-2000er.radionetz.de/1a-2000er.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-2000er_600x600.jpg"
+  },
+  {
+    "id": "rb_0434",
+    "name": "- 1 A - 2000er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-2000er.radionetz.de/1a-2000er.aac",
+    "logo": "https://www.1aradio.com/logos/1a-2000er_600x600.jpg"
+  },
+  {
+    "id": "rb_0435",
+    "name": "- 1 A - 60er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-60er.radionetz.de/1a-60er.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-60er_600x600.jpg"
+  },
+  {
+    "id": "rb_0436",
+    "name": "- 1 A - 60er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-60er.radionetz.de/1a-60er.aac",
+    "logo": "https://www.1aradio.com/logos/1a-60er_600x600.jpg"
+  },
+  {
+    "id": "rb_0437",
+    "name": "- 1 A - 70er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-70er.radionetz.de/1a-70er.aac",
+    "logo": "https://www.1aradio.com/logos/1a-70er_600x600.jpg"
+  },
+  {
+    "id": "rb_0438",
+    "name": "- 1 A - 70er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-70er.radionetz.de/1a-70er.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-70er_600x600.jpg"
+  },
+  {
+    "id": "rb_0439",
+    "name": "- 1 A - 80er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-80er.radionetz.de/1a-80er.aac",
+    "logo": "https://www.1aradio.com/logos/1a-80er_600x600.jpg"
+  },
+  {
+    "id": "rb_0440",
+    "name": "- 1 A - 80er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-80er.radionetz.de/1a-80er.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-80er_600x600.jpg"
+  },
+  {
+    "id": "rb_0441",
+    "name": "- 1 A - 90er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-90er.radionetz.de/1a-90er.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-90er_600x600.jpg"
+  },
+  {
+    "id": "rb_0442",
+    "name": "- 1 A - 90er von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-90er.radionetz.de/1a-90er.aac",
+    "logo": "https://www.1aradio.com/logos/1a-90er_600x600.jpg"
+  },
+  {
+    "id": "rb_0443",
+    "name": "- 1 A - Charts von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-charts.radionetz.de/1a-charts.aac",
+    "logo": "https://www.1aradio.com/logos/1a-charts_600x600.jpg"
+  },
+  {
+    "id": "rb_0444",
+    "name": "- 1 A - Charts von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-charts.radionetz.de/1a-charts.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-charts_600x600.jpg"
+  },
+  {
+    "id": "rb_0445",
+    "name": "- 1 A - Chillout von 1A Radio",
+    "genre": "chill",
+    "url": "https://1a-chillout.radionetz.de/1a-chillout.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-chillout_600x600.jpg"
+  },
+  {
+    "id": "rb_0446",
+    "name": "- 1 A - Chillout von 1A Radio",
+    "genre": "chill",
+    "url": "https://1a-chillout.radionetz.de/1a-chillout.aac",
+    "logo": "https://www.1aradio.com/logos/1a-chillout_600x600.jpg"
+  },
+  {
+    "id": "rb_0447",
+    "name": "- 1 A - Christmas on Radio",
+    "genre": "radio",
+    "url": "https://1a-christmas.radionetz.de/1a-christmas.aac",
+    "logo": "https://www.1aradio.com/logos/1a-christmas_600x600.jpg"
+  },
+  {
+    "id": "rb_0448",
+    "name": "- 1 A - Christmas on Radio",
+    "genre": "radio",
+    "url": "https://1a-christmas.radionetz.de/1a-christmas.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-christmas_600x600.jpg"
+  },
+  {
+    "id": "rb_0449",
+    "name": "- 1 A - Classic Rock von 1A Radio",
+    "genre": "rock",
+    "url": "https://1a-classicrock.radionetz.de/1a-classicrock.aac",
+    "logo": "https://www.1aradio.com/logos/1a-classic-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0450",
+    "name": "- 1 A - Classic Rock von 1A Radio",
+    "genre": "rock",
+    "url": "https://1a-classicrock.radionetz.de/1a-classicrock.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-classic-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0451",
+    "name": "- 1 A - Deutsch Pop von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-deutsch-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0452",
+    "name": "- 1 A - Deutsch Pop von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-deutschpop.radionetz.de/1a-deutschpop.aac",
+    "logo": "https://www.1aradio.com/logos/1a-deutsch-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0453",
+    "name": "- 1 A - Deutsch Rap von 1A Radio",
+    "genre": "hip-hop",
+    "url": "https://1a-deutschrap.radionetz.de/1a-deutschrap.aac",
+    "logo": "https://www.1aradio.com/logos/1a-deutsch-rap_600x600.jpg"
+  },
+  {
+    "id": "rb_0454",
+    "name": "- 1 A - Deutsch Rap von 1A Radio",
+    "genre": "hip-hop",
+    "url": "https://1a-deutschrap.radionetz.de/1a-deutschrap.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-deutsch-rap_600x600.jpg"
+  },
+  {
+    "id": "rb_0455",
+    "name": "- 1 A - Entspannt von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-entspannt.radionetz.de/1a-entspannt.aac",
+    "logo": "https://www.1aradio.com/logos/1a-entspannt_600x600.jpg"
+  },
+  {
+    "id": "rb_0456",
+    "name": "- 1 A - Entspannt von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-entspannt.radionetz.de/1a-entspannt.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-entspannt_600x600.jpg"
+  },
+  {
+    "id": "rb_0457",
+    "name": "- 1 A - Hits von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-hits.radionetz.de/1a-hits.aac",
+    "logo": "https://www.1aradio.com/logos/1a-hits_600x600.jpg"
+  },
+  {
+    "id": "rb_0458",
+    "name": "- 1 A - Hits von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-hits.radionetz.de/1a-hits.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-hits_600x600.jpg"
+  },
+  {
+    "id": "rb_0459",
+    "name": "- 1 A - Jazz von 1A Radio",
+    "genre": "jazz",
+    "url": "https://1a-jazz.radionetz.de/1a-jazz.aac",
+    "logo": "https://www.1aradio.com/logos/1a-jazz_600x600.jpg"
+  },
+  {
+    "id": "rb_0460",
+    "name": "- 1 A - Jazz von 1A Radio",
+    "genre": "jazz",
+    "url": "https://1a-jazz.radionetz.de/1a-jazz.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-jazz_600x600.jpg"
+  },
+  {
+    "id": "rb_0461",
+    "name": "- 1 A - NDW (Neue Deutsche Welle) von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-ndw.radionetz.de/1a-ndw.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-ndw_600x600.jpg"
+  },
+  {
+    "id": "rb_0462",
+    "name": "- 1 A - NDW (Neue Deutsche Welle) von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-ndw.radionetz.de/1a-ndw.aac",
+    "logo": "https://www.1aradio.com/logos/1a-ndw_600x600.jpg"
+  },
+  {
+    "id": "rb_0463",
+    "name": "- 1 A - Oldies von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-oldies.radionetz.de/1a-oldies.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-oldies_600x600.jpg"
+  },
+  {
+    "id": "rb_0464",
+    "name": "- 1 A - Oldies von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-oldies.radionetz.de/1a-oldies.aac",
+    "logo": "https://www.1aradio.com/logos/1a-oldies_600x600.jpg"
+  },
+  {
+    "id": "rb_0465",
+    "name": "- 1 A - Party von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-party.radionetz.de/1a-party.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-party_600x600.jpg"
+  },
+  {
+    "id": "rb_0466",
+    "name": "- 1 A - Party von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-party.radionetz.de/1a-party.aac",
+    "logo": "https://www.1aradio.com/logos/1a-party_600x600.jpg"
+  },
+  {
+    "id": "rb_0467",
+    "name": "- 1 A - Pop von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-pop.radionetz.de/1a-pop.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0468",
+    "name": "- 1 A - Pop von 1A Radio",
+    "genre": "pop",
+    "url": "https://1a-pop.radionetz.de/1a-pop.aac",
+    "logo": "https://www.1aradio.com/logos/1a-pop_600x600.jpg"
+  },
+  {
+    "id": "rb_0469",
+    "name": "- 1 A - Relax von 1A Radio",
+    "genre": "chill",
+    "url": "https://1a-relax.radionetz.de/1a-relax.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-relax_600x600.jpg"
+  },
+  {
+    "id": "rb_0470",
+    "name": "- 1 A - Relax von 1A Radio",
+    "genre": "chill",
+    "url": "https://1a-relax.radionetz.de/1a-relax.aac",
+    "logo": "https://www.1aradio.com/logos/1a-relax_600x600.jpg"
+  },
+  {
+    "id": "rb_0471",
+    "name": "- 1 A - Rock von 1A Radio",
+    "genre": "rock",
+    "url": "https://1a-rock.radionetz.de/1a-rock.aac",
+    "logo": "https://www.1aradio.com/logos/1a-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0472",
+    "name": "- 1 A - Rock von 1A Radio",
+    "genre": "rock",
+    "url": "https://1a-rock.radionetz.de/1a-rock.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-rock_600x600.jpg"
+  },
+  {
+    "id": "rb_0473",
+    "name": "- 1 A - Schlager Gold von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-schlager-gold_600x600.jpg"
+  },
+  {
+    "id": "rb_0474",
+    "name": "- 1 A - Schlager Gold von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-schlagergold.radionetz.de/1a-schlagergold.aac",
+    "logo": "https://www.1aradio.com/logos/1a-schlager-gold_600x600.jpg"
+  },
+  {
+    "id": "rb_0475",
+    "name": "- 1 A - Schlager Kult von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-schlager-kult_600x600.jpg"
+  },
+  {
+    "id": "rb_0476",
+    "name": "- 1 A - Schlager von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-schlager.radionetz.de/1a-schlager.aac",
+    "logo": "https://www.1aradio.com/logos/1a-schlager_600x600.jpg"
+  },
+  {
+    "id": "rb_0477",
+    "name": "- 1 A - Schlager von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-schlager.radionetz.de/1a-schlager.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-schlager_600x600.jpg"
+  },
+  {
+    "id": "rb_0478",
+    "name": "- 1 A - Volksmusik von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-volksmusik_600x600.jpg"
+  },
+  {
+    "id": "rb_0479",
+    "name": "- 1 A - Volksmusik von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-volksmusik.radionetz.de/1a-volksmusik.aac",
+    "logo": "https://www.1aradio.com/logos/1a-volksmusik_600x600.jpg"
+  },
+  {
+    "id": "rb_0480",
+    "name": "- 1 A - Weihnachten von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-weihnachten.radionetz.de/1a-weihnachten.mp3",
+    "logo": "https://www.1aradio.com/logos/1a-weihnachten_600x600.jpg"
+  },
+  {
+    "id": "rb_0481",
+    "name": "- 1 A - Weihnachten von 1A Radio",
+    "genre": "radio",
+    "url": "https://1a-weihnachten.radionetz.de/1a-weihnachten.aac",
+    "logo": "https://www.1aradio.com/logos/1a-weihnachten_600x600.jpg"
+  },
+  {
+    "id": "rb_0482",
+    "name": "- CHARTS <3 EINFACH....DEIN LIEBLINGSRADIO <3, BEST OF REMIXES, CLUB, DANCE, HANDSUP, MASHUP, REMIX, DJ / DEEJAY, LIVE, TANZMUSIK, GROOVE, EDM, HARD, RAVE, DEEP HOUSE, CHILLOUT, TOP 100, TOP 40, REMIX RADIO, MIX, LOUNGE, SUNSET, AFRO HOUSE, HARDSTYLE, EDM, BLACK, RNB, HIP HOP, MIX, DEEP, SLOW, SLEEP, GERMAN DEEJAY RADIO,  MIXED DJ SET, FESTIVAL, MAINSTREAM,",
+    "genre": "pop",
+    "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-LOVE",
+    "logo": "https://i.ibb.co/vzVWgBK/einfach-nur-charts-Kopie.jpg"
+  },
+  {
+    "id": "rb_0483",
+    "name": "- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC -  LIVE DEEJAY RADIO - LIVE EVENTS",
+    "genre": "pop",
+    "url": "https://radio2.breakz.fm/?ref=rb-gpt-t100",
+    "logo": "https://i.ibb.co/b7gfKT6/TOP-100-DJ-CHARTS-GPT.jpg"
+  },
+  {
+    "id": "rb_0484",
+    "name": "-- NICHT EINSCHALTEN -- !!! Nichts außer House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - Afro - Sunset - Beach und Aktuelle Hits -  DJ Mixtape RADIO",
+    "genre": "pop",
+    "url": "https://breakz-2012-high.rautemusik.fm/?ref=rbnichteinschalten",
+    "logo": "https://i.ibb.co/gbvzvf8w/nichts-breakz.jpg"
+  },
+  {
+    "id": "rb_0485",
+    "name": "---تراتيل قصيرة متميزة---",
+    "genre": "radio",
+    "url": "https://qurango.net/radio/tarateel",
+    "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
+  },
+  {
+    "id": "rb_0486",
+    "name": "-=- Relax-FM -=-",
+    "genre": "chill",
+    "url": "http://ic4.101.ru:8000/stream/air/aac/64/200",
+    "logo": "https://relax-fm.ru/design/images/img_for_design/icons/touch-icon-ipad.png"
+  },
+  {
+    "id": "rb_0487",
+    "name": "!DEEJAY MIXES!",
+    "genre": "radio",
+    "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay",
+    "logo": "https://i.ibb.co/jbJkcvt/BREAKZ-FM-LOGO.png"
+  },
+  {
+    "id": "rb_0488",
+    "name": "!REMIX! MASHUP RADIO",
+    "genre": "radio",
+    "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser27",
+    "logo": "https://i.ibb.co/jbJkcvt/BREAKZ-FM-LOGO.png"
+  },
+  {
+    "id": "rb_0489",
+    "name": "¡Que Viva México!",
+    "genre": "radio",
+    "url": "http://quevivamexico.com/listen.pls",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s190365d.png"
+  },
+  {
+    "id": "rb_0490",
+    "name": ". Al quran radio",
+    "genre": "radio",
+    "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+    "logo": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg"
+  },
+  {
+    "id": "rb_0491",
+    "name": ".. atlantica oldies..",
+    "genre": "radio",
+    "url": "http://radios.topymedia.com:8052/stream/;.mp3",
+    "logo": "https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png"
+  },
+  {
+    "id": "rb_0492",
+    "name": ".. Atlantica Radio..",
+    "genre": "radio",
+    "url": "http://radios.topymedia.com:8000/stream/;.mp3",
+    "logo": "https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png"
+  },
+  {
+    "id": "rb_0493",
+    "name": ".. Atlantica Soleil..",
+    "genre": "radio",
+    "url": "http://radios.topymedia.com:8054/stream/;.mp3",
+    "logo": "https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png"
+  },
+  {
+    "id": "rb_0494",
+    "name": "..:: HYPE FM - ХАЙП FM - РЕЗЕРВ ::..",
+    "genre": "radio",
+    "url": "http://54.154.49.88:8000/HipHop/HypeFM",
+    "logo": "https://hypefm.ru/wp-content/uploads/2020/08/cropped-nobg-2.png"
+  },
+  {
+    "id": "rb_0495",
+    "name": ".restradio",
+    "genre": "radio",
+    "url": "https://stream.restradio.online/live",
+    "logo": "https://i.imgur.com/NRikHzn.png"
+  },
+  {
+    "id": "rb_0496",
+    "name": "'t Is Vloms",
+    "genre": "radio",
+    "url": "https://bluford.torontocast.com/proxy/iimfoptl/stream",
+    "logo": "https://tisvloms.eu/wp-content/uploads/2017/10/tis-vloms-logo-400.png"
+  },
+  {
+    "id": "rb_0497",
+    "name": "\"The Mighty\"1290 GLI",
+    "genre": "radio",
+    "url": "https://streaming.live365.com/a33394",
+    "logo": "http://www.wa2fnq.com/1290/gliban.jpg"
+  },
+  {
+    "id": "rb_0498",
+    "name": "((( WEFUNK Radio ))) . raw uncut funk . classic & underground hip-hop . playlist & archive on wefunkradio.com",
+    "genre": "jazz",
+    "url": "https://www.wefunkradio.com/play/radio.mp3",
+    "logo": "https://cache.wefunkradio.com/images-small/pxl-clr.gif"
+  },
+  {
+    "id": "rb_0499",
+    "name": "((beu))",
+    "genre": "radio",
+    "url": "https://stream.beufm.kz/beufm",
+    "logo": "https://beufm.kz/template/logo_white.png"
+  },
+  {
+    "id": "rb_0500",
+    "name": "((La Reina Putumayo 106.3 Fm))",
+    "genre": "radio",
+    "url": "https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream",
+    "logo": "https://cdn.onlineradiobox.com/img/l/1/81111.v7.png"
+  }
+]
