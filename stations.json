@@ -7,6 +7,13 @@
     "logo": "https://www.arrow.nl/wp-content/uploads/2020/08/logo.png"
   },
   {
+  "id": "pcradio_krug",
+  "name": "Михаил Круг Радио",
+  "genre": "шансон",
+  "url": "url": "http://music.myradio.ua/mihail-krug_news128.mp3",
+  "logo": "https://media.pcradio.app/media/logos/180/1006518/logo_m5jbdZKinv.jpg"
+},
+  {
     "id": "rb_0002",
     "name": "Radio Bruno Pentasport Fiorentina",
     "genre": "radio",
